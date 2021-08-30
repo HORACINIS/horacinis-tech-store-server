@@ -4,9 +4,9 @@ const mongoose = require('mongoose');
 const Phone = require('../../models/phoneModel');
 const fs = require('fs');
 
-const DB = process.env.DATABASE
-  .replace('<USERNAME>', process.env.DATABASE_USERNAME)
-  .replace('<PASSWORD>', process.env.DATABASE_PASSWORD);
+const DB = process.env.PRODUCTS_DATABASE
+  .replace('<USERNAME>', process.env.PRODUCTS_DATABASE_USERNAME)
+  .replace('<PASSWORD>', process.env.PRODUCTS_DATABASE_PASSWORD);
 
 mongoose.connect(DB, {
   useNewUrlParser: true,
