@@ -1,0 +1,3 @@
+To import and delete the Phones list
+node seedData/phones/importPhonesList.js --import
+node seedData/phones/importPhonesList.js --delete
