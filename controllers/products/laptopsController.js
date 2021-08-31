@@ -1,4 +1,4 @@
-const Laptop = require('./../../models/phoneModel');
+const Laptop = require('./../../models/laptopModel');
 
 exports.getLaptops = async (req, res) => {
   try {
