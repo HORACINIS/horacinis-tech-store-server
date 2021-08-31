@@ -1,3 +1,7 @@
 To import and delete the Phones list
 node seedData/phones/importPhonesList.js --import
 node seedData/phones/importPhonesList.js --delete
+
+To import and delete the Laptops list
+node seedData/laptops/importLaptopsList.js --import
+node seedData/laptops/importLaptopsList.js --delete
