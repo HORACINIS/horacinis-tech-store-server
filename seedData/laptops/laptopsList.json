@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Lenovo Mat 01",
+    "category": "Laptops",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1951&q=80",
+    "price": 1720,
+    "brand": "Lenovo",
+    "rating": 4.8,
+    "numReviews": 10,
+    "description": "High quality product"
+  },
+  {
+    "name": "Lenovo Mat 02",
+    "category": "Laptops",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1951&q=80",
+    "price": 1720,
+    "brand": "Lenovo",
+    "rating": 4.8,
+    "numReviews": 10,
+    "description": "High quality product"
+  },
+  {
+    "name": "Lenovo Mat 03",
+    "category": "Laptops",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1951&q=80",
+    "price": 1720,
+    "brand": "Lenovo",
+    "rating": 4.8,
+    "numReviews": 10,
+    "description": "High quality product"
+  },
+  {
+    "name": "Lenovo Mat 04",
+    "category": "Laptops",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1951&q=80",
+    "price": 1720,
+    "brand": "Lenovo",
+    "rating": 4.8,
+    "numReviews": 10,
+    "description": "High quality product"
+  },
+  {
+    "name": "Lenovo Mat 05",
+    "category": "Laptops",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1951&q=80",
+    "price": 1720,
+    "brand": "Lenovo",
+    "rating": 4.8,
+    "numReviews": 10,
+    "description": "High quality product"
+  },
+  {
+    "name": "Lenovo Mat 06",
+    "category": "Laptops",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1951&q=80",
+    "price": 1720,
+    "brand": "Lenovo",
+    "rating": 4.8,
+    "numReviews": 10,
+    "description": "High quality product"
+  }
+]
