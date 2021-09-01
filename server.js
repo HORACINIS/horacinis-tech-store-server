@@ -16,7 +16,12 @@ mongoose.connect(DB, {
 const app = require('./app');
 
 
+// const port = 4000;
+// app.listen(process.env.PORT || port, () => {
+//   console.log(`Server listening on port ${port} - In ${process.env.NODE_ENV.toUpperCase()} mode!`);
+// });
+
 const port = 4000;
-app.listen(process.env.PORT || port, () => {
+app.listen(process.env.PORT, () => {
   console.log(`Server listening on port ${port} - In ${process.env.NODE_ENV.toUpperCase()} mode!`);
 });
