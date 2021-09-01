@@ -21,7 +21,7 @@ const app = require('./app');
 //   console.log(`Server listening on port ${port} - In ${process.env.NODE_ENV.toUpperCase()} mode!`);
 // });
 
-const port = 4000;
+// const port = 4000;
 app.listen(process.env.PORT, () => {
-  console.log(`Server listening on port ${port} - In ${process.env.NODE_ENV.toUpperCase()} mode!`);
+  console.log(`Server listening on port ${process.env.PORT} - In ${process.env.NODE_ENV.toUpperCase()} mode!`);
 });
