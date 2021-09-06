@@ -24,3 +24,22 @@ exports.getPhones = async (req, res) => {
       });
   }
 }
+
+exports.getPhonesById = async (req, res) => {
+  try {
+    const phones = await Phone.findById(req.params)
+    res
+      .status(200)
+      .json({
+        status: 'success',
+        data: { phones }
+      });
+  } catch (err) {
+    res
+      .status(404)
+      .json({
+        status: 'fail',
+        message: err
+      });
+  }
+}

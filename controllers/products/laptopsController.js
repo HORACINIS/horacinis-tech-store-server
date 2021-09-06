@@ -23,3 +23,22 @@ exports.getLaptops = async (req, res) => {
       });
   }
 }
+
+exports.getLaptopsById = async (req, res) => {
+  try {
+    const laptop = await Laptop.findById(req.params)
+    res
+      .status(200)
+      .json({
+        status: 'success',
+        data: { laptop }
+      });
+  } catch (err) {
+    res
+      .status(404)
+      .json({
+        status: 'fail',
+        message: err
+      });
+  }
+}
