@@ -1,7 +1,7 @@
 [
   {
     "name": "Lenovo Mat 01",
-    "category": "Laptops",
+    "category": "laptops",
     "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/517034-Product-0-I-637613338701340822_8be84e0e-880a-4bba-b3fe-a581d14f9b4e_300x300.jpg?v=1629770131",
     "price": 1200,
     "brand": "Lenovo",
@@ -11,7 +11,7 @@
   },
   {
     "name": "Lenovo Mat 02",
-    "category": "Laptops",
+    "category": "laptops",
     "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/475732-Product-0-I-637528687752058526_300x300.jpg?v=1629356459",
     "price": 1720,
     "brand": "Samsung",
@@ -21,7 +21,7 @@
   },
   {
     "name": "Lenovo Mat 03",
-    "category": "Laptops",
+    "category": "laptops",
     "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/517034-Product-0-I-637613338701340822_8be84e0e-880a-4bba-b3fe-a581d14f9b4e_300x300.jpg?v=1629770131",
     "price": 1720,
     "brand": "Lenovo",
@@ -31,7 +31,7 @@
   },
   {
     "name": "Lenovo Mat 04",
-    "category": "Laptops",
+    "category": "laptops",
     "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/475732-Product-0-I-637528687752058526_300x300.jpg?v=1629356459",
     "price": 1720,
     "brand": "Apple",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Lenovo Mat 05",
-    "category": "Laptops",
+    "category": "laptops",
     "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/517034-Product-0-I-637613338701340822_8be84e0e-880a-4bba-b3fe-a581d14f9b4e_300x300.jpg?v=1629770131",
     "price": 1510,
     "brand": "Sony",
@@ -51,7 +51,7 @@
   },
   {
     "name": "Lenovo Mat 06",
-    "category": "Laptops",
+    "category": "laptops",
     "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/475732-Product-0-I-637528687752058526_300x300.jpg?v=1629356459",
     "price": 1700,
     "brand": "Samsung",

@@ -1,7 +1,7 @@
 [
   {
     "name": "Samsung Note 1",
-    "category": "Phones",
+    "category": "phones",
     "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/506525-Product-0-I-637474455736079729_300x300.jpg?v=1611809244",
     "price": 820,
     "brand": "Samsung",
@@ -11,7 +11,7 @@
   },
   {
     "name": "Samsung Note 2",
-    "category": "Phones",
+    "category": "phones",
     "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/481781-Product-0-I-637382622241807429_1d121773-8fb9-47e0-8898-57e9e2508c9a_300x300.jpg?v=1612750125",
     "price": 820,
     "brand": "Apple",
@@ -21,7 +21,7 @@
   },
   {
     "name": "Samsung Note 3",
-    "category": "Phones",
+    "category": "phones",
     "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/506525-Product-0-I-637474455736079729_300x300.jpg?v=1611809244",
     "price": 820,
     "brand": "Xiaomi",
@@ -31,7 +31,7 @@
   },
   {
     "name": "Samsung Note 4",
-    "category": "Phones",
+    "category": "phones",
     "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/481781-Product-0-I-637382622241807429_1d121773-8fb9-47e0-8898-57e9e2508c9a_300x300.jpg?v=1612750125",
     "price": 820,
     "brand": "Samsung",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Samsung Note 5",
-    "category": "Phones",
+    "category": "phones",
     "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/506525-Product-0-I-637474455736079729_300x300.jpg?v=1611809244",
     "price": 820,
     "brand": "Sony",
@@ -51,7 +51,7 @@
   },
   {
     "name": "Samsung Note 6",
-    "category": "Phones",
+    "category": "phones",
     "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/481781-Product-0-I-637382622241807429_1d121773-8fb9-47e0-8898-57e9e2508c9a_300x300.jpg?v=1612750125",
     "price": 820,
     "brand": "Oppo",
