@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Apple Note 1",
+    "category": "tablets",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/519593-Product-0-I-637546883952786197_540x.jpg",
+    "price": 950,
+    "brand": "Sonny",
+    "rating": 3.9,
+    "numReviews": 23,
+    "description": "High quality product"
+  },
+  {
+    "name": "Samsung Note 2",
+    "category": "tablets",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/519669-Product-0-I-637546880348392509_540x.jpg",
+    "price": 420,
+    "brand": "Apple",
+    "rating": 2,
+    "numReviews": 10,
+    "description": "High quality product"
+  },
+  {
+    "name": "Apple Note 3",
+    "category": "tablets",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/519593-Product-0-I-637546883952786197_540x.jpg",
+    "price": 825,
+    "brand": "Xiaomi",
+    "rating": 4.5,
+    "numReviews": 29,
+    "description": "High quality product"
+  },
+  {
+    "name": "Samsung Note 4",
+    "category": "tablets",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/519669-Product-0-I-637546880348392509_540x.jpg",
+    "price": 820,
+    "brand": "Samsung",
+    "rating": 4.8,
+    "numReviews": 10,
+    "description": "High quality product"
+  },
+  {
+    "name": "Apple Note 5",
+    "category": "tablets",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/519593-Product-0-I-637546883952786197_540x.jpg",
+    "price": 860,
+    "brand": "Apple",
+    "rating": 3.8,
+    "numReviews": 12,
+    "description": "High quality product"
+  },
+  {
+    "name": "Samsung Note 6",
+    "category": "tablets",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/519669-Product-0-I-637546880348392509_540x.jpg",
+    "price": 1120,
+    "brand": "Samsung",
+    "rating": 2.3,
+    "numReviews": 39,
+    "description": "High quality product"
+  }
+]
