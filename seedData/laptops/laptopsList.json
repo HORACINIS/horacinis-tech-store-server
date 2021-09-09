@@ -58,5 +58,35 @@
     "rating": 4.8,
     "numReviews": 10,
     "description": "High quality product"
+  },
+  {
+    "name": "Lenovo Mat 07",
+    "category": "laptops",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/517034-Product-0-I-637613338701340822_8be84e0e-880a-4bba-b3fe-a581d14f9b4e_300x300.jpg?v=1629770131",
+    "price": 710,
+    "brand": "Sony",
+    "rating": 4.2,
+    "numReviews": 41,
+    "description": "High quality product"
+  },
+  {
+    "name": "Lenovo Mat 08",
+    "category": "laptops",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/475732-Product-0-I-637528687752058526_300x300.jpg?v=1629356459",
+    "price": 960,
+    "brand": "Samsung",
+    "rating": 5,
+    "numReviews": 10,
+    "description": "High quality product"
+  },
+    {
+    "name": "Lenovo Mat 09",
+    "category": "laptops",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/517034-Product-0-I-637613338701340822_8be84e0e-880a-4bba-b3fe-a581d14f9b4e_300x300.jpg?v=1629770131",
+    "price": 1210,
+    "brand": "Sony",
+    "rating": 3.5,
+    "numReviews": 10,
+    "description": "High quality product"
   }
 ]
