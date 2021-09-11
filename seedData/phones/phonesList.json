@@ -6,7 +6,7 @@
     "price": 820,
     "brand": "Samsung",
     "rating": 3.9,
-    "numReviews": 10,
+    "numReviews": 12,
     "description": "High quality product"
   },
   {
@@ -15,8 +15,8 @@
     "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/481781-Product-0-I-637382622241807429_1d121773-8fb9-47e0-8898-57e9e2508c9a_300x300.jpg?v=1612750125",
     "price": 820,
     "brand": "Apple",
-    "rating": 2,
-    "numReviews": 10,
+    "rating": 2.2,
+    "numReviews": 23,
     "description": "High quality product"
   },
   {
@@ -26,7 +26,7 @@
     "price": 820,
     "brand": "Xiaomi",
     "rating": 4.5,
-    "numReviews": 10,
+    "numReviews": 31,
     "description": "High quality product"
   },
   {
@@ -36,7 +36,7 @@
     "price": 820,
     "brand": "Samsung",
     "rating": 4.8,
-    "numReviews": 10,
+    "numReviews": 15,
     "description": "High quality product"
   },
   {
@@ -56,7 +56,7 @@
     "price": 820,
     "brand": "Oppo",
     "rating": 2.3,
-    "numReviews": 10,
+    "numReviews": 11,
     "description": "High quality product"
   }
 ]
