@@ -1,33 +1,33 @@
 [
   {
-    "name": "Samsung Note 1",
+    "name": "Samsung Galaxy S21 Ultra 5G 256GB (Black)",
     "category": "phones",
     "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/506525-Product-0-I-637474455736079729_300x300.jpg?v=1611809244",
-    "price": 820,
+    "price": 1949,
     "brand": "Samsung",
-    "rating": 3.9,
-    "numReviews": 12,
-    "description": "High quality product"
+    "rating": 3.7,
+    "numReviews": 32,
+    "description": "Miss nothing, with Galaxy S21. When capturing your best moments, you no longer have to choose between photo and video. Galaxy S21 captures both, simultaneously, so you’ll never miss a moment. With 108MP camera and 8K video recording, capture the highest quality images and videos on a smartphone. Have the power to last with our toughest display, fastest processor and our most powerful battery yet."
   },
   {
-    "name": "Samsung Note 2",
+    "name": "Apple iPhone 12 Pro Max 128GB (Pacific Blue)",
     "category": "phones",
     "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/481781-Product-0-I-637382622241807429_1d121773-8fb9-47e0-8898-57e9e2508c9a_300x300.jpg?v=1612750125",
-    "price": 820,
+    "price": 1849,
     "brand": "Apple",
-    "rating": 2.2,
+    "rating": 4.6,
     "numReviews": 23,
-    "description": "High quality product"
+    "description": "iPhone 12 Pro Max. 5G to download huge files on the go and stream HDR video.1 Larger 6.7-inch Super Retina XDR display.2 Ceramic Shield with four times better drop performance.3 Incredible low-light photography with the best Pro camera system on an iPhone, and 5× optical zoom range. Cinema-grade Dolby Vision video recording, editing and playback. Night mode portraits and next-level AR experiences with the LiDAR Scanner. Powerful A14 Bionic chip. And new MagSafe accessories for easy attachment and faster wireless charging.4 For infinitely spectacular possibilities."
   },
   {
-    "name": "Samsung Note 3",
+    "name": "Samsung Galaxy Note20 Ultra 5G 256GB (Black)",
     "category": "phones",
-    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/506525-Product-0-I-637474455736079729_300x300.jpg?v=1611809244",
-    "price": 820,
-    "brand": "Xiaomi",
-    "rating": 4.5,
-    "numReviews": 31,
-    "description": "High quality product"
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/477016-Product-0-I-637316235710196555_900x.jpg",
+    "price": 1499,
+    "brand": "Samsung",
+    "rating": 3.9,
+    "numReviews": 29,
+    "description": "Forget work-life balance, Galaxy Note20 Ultra 5G gives you work-life flow. Hold the power of a computer in the palm of your hand and scribble with the S Pen that feels just like pen-to paper. Work smarter, play harder with our fastest Galaxy Note processor, smoothest display1 and superfast 5G2. It’s a gaming machine."
   },
   {
     "name": "Samsung Note 4",
