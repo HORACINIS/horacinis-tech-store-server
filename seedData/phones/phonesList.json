@@ -58,5 +58,195 @@
     "rating": 4.9,
     "numReviews": 27,
     "description": "The full screen phone that folds to fit in your pocket with revolutionary flexible glass, a camera designed to stand on its own, a dual battery that is long lasting, and the speed of 5G^. Meet the phone changing the shape of the future."
+  },
+  {
+    "name": "Samsung Galaxy Z Fold3 5G 512GB (Silver)",
+    "category": "phones",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/530602-Product-0-I-637668261756822290_868e2220-b745-4987-9de2-d9b7f6106b03_300x300.jpg?v=1631226576",
+    "price": 2649,
+    "brand": "Samsung",
+    "rating": 4.9,
+    "numReviews": 29,
+    "description": "Experience Galaxy Z Fold3’s stunning full front 6.2-inch display and folding inner 7.6-inch display to jump straight from smartphone to a theatre-like experience.*  Enjoy a truly seamless display experience with up to 120Hz refresh rate on both the cover and main display as well as a cleverly concealed under-the-screen front camera."
+  },
+  {
+    "name": "realme 7 5G 128GB (Mist Blue)",
+    "category": "phones",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/511067-Product-0-I-637638576507033570_300x300.jpg?v=1628224925",
+    "price": 439,
+    "brand": "realme",
+    "rating": 3.1,
+    "numReviews": 14,
+    "description": "5G is for everyone with all new realme 7 5G! realme is breaking down the barriers of what’s possible with this device, delivering the latest innovations to Aussies for an affordable price. Equipped with a theoretical download speed in 5G network that reaches up to 2.34Gbps, stream the latest HD movies or video call friends and family with the clearest of resolutions. The 120Hz ultra smooth display offers the smoothest visuals with every touch. With a massive 5000mAh battery that lasts up to 25 days on standby, battery drain anxieties are a distant memory. Enter the next evolution of smartphone innovation with the realme 7 5G."
+  },
+  {
+    "name": "Vivo Y52 5G 128GB (Black)",
+    "category": "phones",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/530740-Product-0-I-637630629506066405_300x300.jpg?v=1627430228",
+    "price": 379,
+    "brand": "Vivo",
+    "rating": 2.5,
+    "numReviews": 28,
+    "description": "Enjoy better performance with the 5G connectivity and the powerful processors handle multi-tasks with ease. Along with an 4GB memory and 128GB storage, enjoy a smoother 5G experience with faster connection and multiple app downloads."
+  },
+  {
+    "name": "Motorola Edge 20 Pro 5G 256GB (Midnight Sky)",
+    "category": "phones",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/531026-Product-0-I-637648962750758737_300x300.jpg?v=1629852149",
+    "price": 1599,
+    "brand": "Motorola",
+    "rating": 4.1,
+    "numReviews": 26,
+    "description": "The world has changed. And a new kind of world calls for a new kind of phone. One that takes the latest smartphone experiences to another level, empowering you to tell your story like never before. The new motorola edge 20 pro was born for this. Featuring our most advanced camera system ever, you can capture stunning ultra-high res photos with a 108 MP sensor, and focus from incredible distances with 50x Super Zoom. Or view a billion shades of colour on a breathtaking 6.7 inch display with the fastest smartphone refresh rate. Even connect your phone to the big screen with Ready For to play games, make video calls, and use your favourite apps. It’s time to unleash your creativity. motorola edge 20 pro is here."
+  },
+  {
+    "name": "Samsung Galaxy A32 128GB (Violet)",
+    "category": "phones",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/515024-Product-0-I-637547597385927333_300x300.jpg?v=1619127008",
+    "price": 499,
+    "brand": "Samsung",
+    "rating": 4.3,
+    "numReviews": 46,
+    "description": "The new Galaxy A32 gives you more of what you like with an awesome screen, awesome camera and long-lasting battery life. It’s the phone built for streaming, gaming and social – all coming to life on a bright 6.4” screen. Best of all, the new Fun Mode makes taking selfies even more fun."
+  },
+  {
+    "name": "Asus Zenfone 8 Flip 5G 256GB (Galactic Black)",
+    "category": "phones",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/523030-Product-0-I-637588257089692003_f09762d7-1265-45d4-827b-bb82e1263725_300x300.jpg?v=1623193711",
+    "price": 1199,
+    "brand": "Asus",
+    "rating": 4.1,
+    "numReviews": 32,
+    "description": "Zenfone 8 Flip defies ordinary to excel in everything it does. The innovative Flip Camera gives you professional-quality front or rear photos. There’s powerful performance from the Qualcomm® Snapdragon™ 888 5G Mobile Platform. It has a superb AMOLED display and delivers incredible endurance from its massive battery. Get ready to see, hear and interact with the world in an extraordinary way!"
+  },
+  {
+    "name": "Vivo X60 Pro 5G 256GB (Midnight Black)",
+    "category": "phones",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/521451-Product-0-I-637581427892266662_300x300.jpg?v=1622541112",
+    "price": 1099,
+    "brand": "Vivo",
+    "rating": 4.8,
+    "numReviews": 26,
+    "description": "Co-Engineered by vivo and ZEISS The Power Behind the Shot. Discover cutting-edge design and technology from vivo, paired with imaging quality co-engineered by ZEISS. The X60 Pro introduces a groundbreaking photography experience like no other."
+  },
+  {
+    "name": "Samsung Galaxy S21 5G 256GB (Pink)",
+    "category": "phones",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/506515-Product-0-I-637474453340062956_300x300.jpg?v=1611809005",
+    "price": 1349,
+    "brand": "Samsung",
+    "rating": 4.3,
+    "numReviews": 42,
+    "description": "Miss nothing, with Galaxy S21 5G. A camera so good, everyone’s a pro. When capturing your best moments, you no longer have to choose between photo and video. Galaxy S21 captures both, simultaneously, so you’ll never miss a moment. Capture big screen quality videos in stunning 8K resolution* and zoom in with less pixilation with 3x Optical Zoom."
+  },
+  {
+    "name": "Apple iPhone 12 Pro Max 512GB (Gold)",
+    "category": "phones",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/481800-Product-0-I-637382713441169131_300x300.jpg?v=1612750127",
+    "price": 2369,
+    "brand": "Apple",
+    "rating": 4.2,
+    "numReviews": 13,
+    "description": "iPhone 12 Pro Max. 5G to download huge files on the go and stream HDR video.1 Larger 6.7-inch Super Retina XDR display.2 Ceramic Shield with four times better drop performance.3 Incredible low-light photography with the best Pro camera system on an iPhone, and 5× optical zoom range. Cinema-grade Dolby Vision video recording, editing and playback. Night mode portraits and next-level AR experiences with the LiDAR Scanner. Powerful A14 Bionic chip. And new MagSafe accessories for easy attachment and faster wireless charging.4 For infinitely spectacular possibilities."
+  },
+  {
+    "name": "Asus ROG 3 Gaming Phone (512GB)",
+    "category": "phones",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/481829-Product-0-I-637335411475198747_300x300.jpg?v=1597908416",
+    "price": 1399,
+    "brand": "Asus",
+    "rating": 4.4,
+    "numReviews": 29,
+    "description": "To achieve the best performance, it is not enough to use the best hardware available. ROG Phone 3 takes it further by granting the user PC-like control of the SoC, letting them overclock and increase the throttle limit for unprecedented performance with sustained high frame rate over time, or underclock for longer battery life and more comfortable skin temperature. All of this would not be possible without the efficient “GameCool 3” cooling system that moves heat out of the case for much lower temperatures."
+  },
+  {
+    "name": "Apple iPhone 12 mini 64GB (White)",
+    "category": "phones",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/481731-Product-0-I-637382668439167636_d7231d50-76bc-4e79-b833-6ad0b884df50_300x300.jpg?v=1618963616",
+    "price": 884,
+    "brand": "Apple",
+    "rating": 4.1,
+    "numReviews": 52,
+    "description": "iPhone 12 mini. Immerse yourself in the 5.4-inch Super Retina XDR display with brighter brights and lifelike colour.2 In a perfectly small size."
+  },
+  {
+    "name": "Apple iPhone 12 Pro 256GB (Graphite)",
+    "category": "phones",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/481782-Product-0-I-637382624639207592_300x300.jpg?v=1612750151",
+    "price": 1869,
+    "brand": "Apple",
+    "rating": 4.7,
+    "numReviews": 27,
+    "description": "iPhone 12 Pro. 5G to download huge files on the go and stream HDR video.1 Beautifully bright 6.1-inch Super Retina XDR display.2 Ceramic Shield with four times better drop performance.3 Incredible low-light photography with a new Pro camera system, and 4× optical zoom range. Cinema-grade Dolby Vision video recording, editing and playback. Night mode portraits and next-level AR experiences with the LiDAR Scanner. Powerful A14 Bionic chip. And new MagSafe accessories for easy attachment and faster wireless charging.4 For infinitely spectacular possibilities."
+  },
+  {
+    "name": "Apple iPhone 12 Pro 256GB (Silver)",
+    "category": "phones",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/481783-Product-0-I-637382625241054891_4c6b0045-6f6a-40cc-b40e-750298e11f7a_300x300.jpg?v=1612750124",
+    "price": 1869,
+    "brand": "Apple",
+    "rating": 4.6,
+    "numReviews": 31,
+    "description": "iPhone 12 Pro. 5G to download huge files on the go and stream HDR video.1 Beautifully bright 6.1-inch Super Retina XDR display.2 Ceramic Shield with four times better drop performance.3 Incredible low-light photography with a new Pro camera system, and 4× optical zoom range. Cinema-grade Dolby Vision video recording, editing and playback. Night mode portraits and next-level AR experiences with the LiDAR Scanner. Powerful A14 Bionic chip. And new MagSafe accessories for easy attachment and faster wireless charging.4 For infinitely spectacular possibilities."
+  },
+  {
+    "name": "Asus ROG 5 Gaming Phone 5G 256GB (Phantom Black)",
+    "category": "phones",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/521371-Product-0-I-637559099525059063_300x300.jpg?v=1620277225",
+    "price": 1599,
+    "brand": "Asus",
+    "rating": 4.6,
+    "numReviews": 14,
+    "description": "Play to the max with ROG Phone 5, the ultimate gaming phone build for gamers. Powered to win with the latest Qualcomm® Snapdragon™ 888 5G Mobile Platform, this futuristic wonder packs an unbelievably responsive 144 Hz / 1ms display, a monster 6000mAh1 battery system, massively upgraded AirTrigger 5 game controls, and our iconic GameFX audio system. ROG Phone 5 will take your gaming to a new dimension — if you dare."
+  },
+  {
+    "name": "Samsung Galaxy S21 5G 128GB (Violet)",
+    "category": "phones",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/506509-Product-0-I-637474450942109273_300x300.jpg?v=1611808767",
+    "price": 1599,
+    "brand": "Samsung",
+    "rating": 4.2,
+    "numReviews": 38,
+    "description": "Miss nothing, with Galaxy S21 5G. A camera so good, everyone’s a pro. When capturing your best moments, you no longer have to choose between photo and video. Galaxy S21 captures both, simultaneously, so you’ll never miss a moment. Capture big screen quality videos in stunning 8K resolution* and zoom in with less pixilation with 3x Optical Zoom."
+  },
+  {
+    "name": "Motorola Edge 20 Fusion 5G 128GB (Electric Graphite)",
+    "category": "phones",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/531028-Product-0-I-637648932151680042_300x300.jpg?v=1629268783",
+    "price": 499,
+    "brand": "Motorola",
+    "rating": 3.6,
+    "numReviews": 34,
+    "description": "The world has changed. And a new kind of world calls for a new kind of phone. One that takes the latest smartphone experiences to another level, empowering you to tell your story like never before. The new motorola edge 20 fusion was born for this. Featuring an advanced 108 MP camera system, you can capture stunning photos with 9x the low light sensitivity. Or view a billion shades of colour on a breathtaking 6.7 inch display. All without slowing down thanks to one of the largest 5G smartphone batteries and blazing-fast TurboPower™ charging. It’s time to explore new boundaries. motorola edge 20 fusion is here."
+  },
+  {
+    "name": "Samsung Galaxy A52 128GB (Violet)",
+    "category": "phones",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/515027-Product-0-I-637547597987242992_300x300.jpg?v=1619127056",
+    "price": 599,
+    "brand": "Samsung",
+    "rating": 4.3,
+    "numReviews": 67,
+    "description": "See more, do more and experience more with Galaxy A52. Capture your life on the 64MP camera – and stream, game and share on the impressive 6.5” FHD+ screen."
+  },
+  {
+    "name": "Apple iPhone 12 mini 64GB (Green)",
+    "category": "phones",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/481734-Product-0-I-637382669038953157_300x300.jpg?v=1618963559",
+    "price": 884,
+    "brand": "Apple",
+    "rating": 4.3,
+    "numReviews": 32,
+    "description": "iPhone 12 mini. Immerse yourself in the 5.4-inch Super Retina XDR display with brighter brights and lifelike colour.2 In a perfectly small size."
+  },
+  {
+    "name": "Apple iPhone 12 128GB (White)",
+    "category": "phones",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/481751-Product-0-I-637382641441411352_3ba6fe1f-f1d0-40fe-8250-bb844b12ae30_300x300.jpg?v=1618962537",
+    "price": 1429,
+    "brand": "Apple",
+    "rating": 4.6,
+    "numReviews": 62,
+    "description": "iPhone 12. Featuring a brilliant 6.1-inch Super Retina XDR display with OLED technology.2 For sharper text and lifelike photos."
   }
 ]
