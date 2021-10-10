@@ -7,7 +7,10 @@
     "brand": "Razer",
     "rating": 4.2,
     "numReviews": 12,
-    "description": "We’re pushing the limits to what a gaming laptop can do. The Razer Blade 15 is built with a powerful processor to run performance-demanding AAA games on the go. We’ve made it nearly 25% smaller than its predecessor, with a faster 15.6” display that’s fitted into a body as sleek and compact as a 15” laptop."
+    "description": "We’re pushing the limits to what a gaming laptop can do. The Razer Blade 15 is built with a powerful processor to run performance-demanding AAA games on the go. We’ve made it nearly 25% smaller than its predecessor, with a faster 15.6” display that’s fitted into a body as sleek and compact as a 15” laptop.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/Razer+Blade+15+Advanced+15.6+QHD+240Hz+(Intel+i7)+%5BRTX+3060%5D_main.jpg"
+    ]
   },
   {
     "name": "Razer Blade 15 Advanced 15.6 QHD 240Hz (Intel i7) [RTX 3070]",
@@ -17,7 +20,10 @@
     "brand": "Razer",
     "rating": 4.7,
     "numReviews": 27,
-    "description": "We’re pushing the limits to what a gaming laptop can do. The Razer Blade 15 is built with a powerful processor to run performance-demanding AAA games on the go. We’ve made it nearly 25% smaller than its predecessor, with a faster 15.6” display that’s fitted into a body as sleek and compact as a 15” laptop."
+    "description": "We’re pushing the limits to what a gaming laptop can do. The Razer Blade 15 is built with a powerful processor to run performance-demanding AAA games on the go. We’ve made it nearly 25% smaller than its predecessor, with a faster 15.6” display that’s fitted into a body as sleek and compact as a 15” laptop.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/Razer+Blade+15+Advanced+15.6+QHD+240Hz+(Intel+i7)+%5BRTX+3070%5D_main.jpg"
+    ]
   },
   {
     "name": "Razer Blade 15 Advanced QHD 240Hz (Intel i7) [RTX 3080]",
@@ -27,7 +33,10 @@
     "brand": "Razer",
     "rating": 4.8,
     "numReviews": 19,
-    "description": "We’re pushing the limits to what a gaming laptop can do. The Razer Blade 15 Advanced is built with a powerful processor to run performance-demanding AAA games on the go. We’ve made it nearly 25% smaller than its predecessor, with a faster 15.6” display that’s fitted into a body as sleek and compact as a 15” laptop."
+    "description": "We’re pushing the limits to what a gaming laptop can do. The Razer Blade 15 Advanced is built with a powerful processor to run performance-demanding AAA games on the go. We’ve made it nearly 25% smaller than its predecessor, with a faster 15.6” display that’s fitted into a body as sleek and compact as a 15” laptop.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/Razer+Blade+15+Advanced+QHD+240Hz+(Intel+i7)+%5BRTX+3080%5D_main.jpg"
+    ]
   },
   {
     "name": "Asus Zephyrus G14 WQHD Alan Walker (Ryzen 9) [RTX 3050Ti]",
@@ -37,7 +46,10 @@
     "brand": "Asus",
     "rating": 4.4,
     "numReviews": 20,
-    "description": "ASUS ROG Zephyrus G14 Eclipse Gray AniMe Matrix Version Gaming Laptop, Ryzen 9-5900HS, 16GB (2x 8GB) RAM, 512GB M.2 PCIE SSD, 14inch WQHD 120Hz, GeForce RTX 3050ti, WiFi 6, BT 5.1, 4 Cell Battery, 1.7kg, Win10 Home, 1x HDMI 2.0 Port, 2x USB-C Port, 2x USB 3.2 Ports, Backlit Chiclet Keyboard"
+    "description": "ASUS ROG Zephyrus G14 Eclipse Gray AniMe Matrix Version Gaming Laptop, Ryzen 9-5900HS, 16GB (2x 8GB) RAM, 512GB M.2 PCIE SSD, 14inch WQHD 120Hz, GeForce RTX 3050ti, WiFi 6, BT 5.1, 4 Cell Battery, 1.7kg, Win10 Home, 1x HDMI 2.0 Port, 2x USB-C Port, 2x USB 3.2 Ports, Backlit Chiclet Keyboard",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/Asus+Zephyrus+G14+WQHD+Alan+Walker+(Ryzen+9)+%5BRTX+3050Ti%5D_main.jpg"
+    ]
   },
   {
     "name": "Asus Zephyrus M16 FHD 144Hz (Intel i7) [RTX 3050 Ti]",
@@ -47,7 +59,10 @@
     "brand": "Asus",
     "rating": 4.7,
     "numReviews": 24,
-    "description": "The Asus ROG Zephyrus M16 features incredible performance, a vivid 16-inch display and decent battery life. It’s (almost) everything you could want in a gaming laptop."
+    "description": "The Asus ROG Zephyrus M16 features incredible performance, a vivid 16-inch display and decent battery life. It’s (almost) everything you could want in a gaming laptop.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/Asus+Zephyrus+M16+FHD+144Hz+(Intel+i7)+%5BRTX+3050+Ti%5D_main.jpg"
+    ]
   },
   {
     "name": "HP X360 14 Full HD Chromebook (Intel Celeron) [64GB]",
@@ -57,7 +72,10 @@
     "brand": "HP",
     "rating": 3.5,
     "numReviews": 40,
-    "description": "Bolstering productivity, the HP Chromebook 14-inch X360 N5000/4GB/64GB Laptop has a quad core processor and a streamlined interface, so you get to stay productive even when on the go. It's built-in B&O dual speakers produce deep, detailed sound when you’re watching or playing games"
+    "description": "Bolstering productivity, the HP Chromebook 14-inch X360 N5000/4GB/64GB Laptop has a quad core processor and a streamlined interface, so you get to stay productive even when on the go. It's built-in B&O dual speakers produce deep, detailed sound when you’re watching or playing games",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/HP+X360+14+Full+HD+Chromebook+(Intel+Celeron)+%5B64GB%5D_main.jpg"
+    ]
   },
   {
     "name": "Dell Inspiron 5515 15.6 Full HD Laptop (512GB) [Ryzen 7]",
@@ -67,7 +85,10 @@
     "brand": "Dell",
     "rating": 4.1,
     "numReviews": 34,
-    "description": "Featuring AMD Ryzen™ 7000 Series Mobile Processors with Radeon™ Graphics, experience lightning-fast responsiveness and hyper-efficient battery life that keeps you productive, anywhere."
+    "description": "Featuring AMD Ryzen™ 7000 Series Mobile Processors with Radeon™ Graphics, experience lightning-fast responsiveness and hyper-efficient battery life that keeps you productive, anywhere.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/Dell+Inspiron+5515+15.6+Full+HD+Laptop+(512GB)+%5BRyzen+7%5D_main.jpg"
+    ]
   },
   {
     "name": "Dell Inspiron 7415 14 HD 2-in-1 Laptop (512GB) [Ryzen 7]",
@@ -77,7 +98,10 @@
     "brand": "Dell",
     "rating": 3.9,
     "numReviews": 19,
-    "description": "Featuring AMD Ryzen™ 7000 Series Mobile Processors with Radeon™ Graphics, experience lightning-fast responsiveness and hyper-efficient battery life that keeps you productive, anywhere."
+    "description": "Featuring AMD Ryzen™ 7000 Series Mobile Processors with Radeon™ Graphics, experience lightning-fast responsiveness and hyper-efficient battery life that keeps you productive, anywhere.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/Dell+Inspiron+7415+14+HD+2-in-1+Laptop+(512GB)+%5BRyzen+7%5D_main.jpg"
+    ]
   },
   {
     "name": "Asus TUF Gaming 17.3 Full HD 144Hz (Intel i7) [RTX 3050]",
@@ -87,7 +111,10 @@
     "brand": "Asus",
     "rating": 4.1,
     "numReviews": 20,
-    "description": "ASUS TUF Gaming is a powerful Windows 10 gaming laptop that combines gaming performance with up to a narrow bezel IPS-type panel and an extended lifespan, thanks to its patented Anti-Dust Cooling (ADC) system. Equipped with NVIDIA GeForce graphics, multi-core AMD Ryzen 5000 series processor, and solid-state storage, the F15 is able to play the latest games and multitask with ease. To top it all off, it’s backlit gaming keyboard is rated at 20-million keystroke durability. *The actual transfer speed of USB 3.0, 3.1 (Gen 1 and 2), 3.2 (Gen 1 and 2), and/or Type-C will vary depending on many factors including the processing speed of the host device, file attributes and other factors related to  system configuration and your operating environment."
+    "description": "ASUS TUF Gaming is a powerful Windows 10 gaming laptop that combines gaming performance with up to a narrow bezel IPS-type panel and an extended lifespan, thanks to its patented Anti-Dust Cooling (ADC) system. Equipped with NVIDIA GeForce graphics, multi-core AMD Ryzen 5000 series processor, and solid-state storage, the F15 is able to play the latest games and multitask with ease. To top it all off, it’s backlit gaming keyboard is rated at 20-million keystroke durability. *The actual transfer speed of USB 3.0, 3.1 (Gen 1 and 2), 3.2 (Gen 1 and 2), and/or Type-C will vary depending on many factors including the processing speed of the host device, file attributes and other factors related to  system configuration and your operating environment.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/Asus+TUF+Gaming+17.3+Full+HD+144Hz+(Intel+i7)+%5BRTX+3050%5D_main.jpg"
+    ]
   },
   {
     "name": "Razer Blade 14 QHD 165Hz (Ryzen 9) [RTX 3080]",
@@ -97,7 +124,10 @@
     "brand": "Razer",
     "rating": 4.5,
     "numReviews": 19,
-    "description": "For those who want all or nothing, go all out with the Razer Blade 14—the ultimate AMD gaming laptop in every way imaginable. From its ultra-powerful CPU to its graphics, its fast display to its portability, we’ve maxed out all aspects of the Razer Blade 14 to bring you an uncompromising experience that can’t be beat."
+    "description": "For those who want all or nothing, go all out with the Razer Blade 14—the ultimate AMD gaming laptop in every way imaginable. From its ultra-powerful CPU to its graphics, its fast display to its portability, we’ve maxed out all aspects of the Razer Blade 14 to bring you an uncompromising experience that can’t be beat.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/Razer+Blade+14+QHD+165Hz+(Ryzen+9)+%5BRTX+3080%5D_main.jpg"
+    ]
   },
   {
     "name": "Razer Book 13.3 Full HD Touch Screen Laptop (512GB) [Intel i7]",
@@ -107,7 +137,10 @@
     "brand": "Razer",
     "rating": 4.7,
     "numReviews": 53,
-    "description": "From a heritage of high-performance hardware comes a laptop that's a productivity powerhouse. Its ultra-compact design and 13.3-inch bezel display is built for uncompromising mobility. Exceptional battery life of up to 10 hours and more keeps you working on your own hours. Plus, with an 11th Gen Intel® Core™ i5 or i7, you can efficiently multitask with responsiveness and focus, jumping between video calls, downloading and sharing files, and browsing multiple windows at once. Ready to get to work?"
+    "description": "From a heritage of high-performance hardware comes a laptop that's a productivity powerhouse. Its ultra-compact design and 13.3-inch bezel display is built for uncompromising mobility. Exceptional battery life of up to 10 hours and more keeps you working on your own hours. Plus, with an 11th Gen Intel® Core™ i5 or i7, you can efficiently multitask with responsiveness and focus, jumping between video calls, downloading and sharing files, and browsing multiple windows at once. Ready to get to work?",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/Razer+Book+13.3+Full+HD+Touch+Screen+Laptop+(512GB)+%5BIntel+i7%5D_main.jpg"
+    ]
   },
   {
     "name": "Lenovo Legion Slim 7i 15.6 HD 144Hz (Intel i7) [RTX 2060 MaxQ]",
@@ -117,7 +150,10 @@
     "brand": "Lenovo",
     "rating": 3.9,
     "numReviews": 30,
-    "description": "The Lenovo Legion Slim 7i is a slim, light gaming powerhouse. The 15.6” FHD display yields laser-sharp, smooth visuals at 144Hz during competitive gameplay, plus 100% colour accuracy. Or choose a 4K display at 60Hz for graphics-intense games or to show off highlight reels. Underneath the streamlined all-aluminum case are savage 10th Gen Intel® Core™ H-series processors and up to NVIDIA® GeForce RTX™ 2060 Max Q graphics."
+    "description": "The Lenovo Legion Slim 7i is a slim, light gaming powerhouse. The 15.6” FHD display yields laser-sharp, smooth visuals at 144Hz during competitive gameplay, plus 100% colour accuracy. Or choose a 4K display at 60Hz for graphics-intense games or to show off highlight reels. Underneath the streamlined all-aluminum case are savage 10th Gen Intel® Core™ H-series processors and up to NVIDIA® GeForce RTX™ 2060 Max Q graphics.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/Lenovo+Legion+Slim+7i+15.6+HD+144Hz+(Intel+i7)+%5BRTX+2060+MaxQ%5D_main.jpg"
+    ]
   },
   {
     "name": "Asus ROG Strix 15.6 HD 300Hz (Ryzen 7) [RTX 3050 Ti]",
@@ -127,7 +163,10 @@
     "brand": "Asus",
     "rating": 4.9,
     "numReviews": 62,
-    "description": "ROG Strix XG258Q is all about speed — making it the perfect monitor for eSports and first-person shooters. This Full HD monitor is the fastest ever, with a 300Hz native refresh rate, 1ms response time and Extreme Low Motion Blur technology for silky-smooth gameplay and ultra-realistic visuals. Additionally, ROG Strix XG258Q has distinctive Strix-exclusive design elements and ASUS Aura RGB lighting that add ambiance to any gaming setup or LAN part"
+    "description": "ROG Strix XG258Q is all about speed — making it the perfect monitor for eSports and first-person shooters. This Full HD monitor is the fastest ever, with a 300Hz native refresh rate, 1ms response time and Extreme Low Motion Blur technology for silky-smooth gameplay and ultra-realistic visuals. Additionally, ROG Strix XG258Q has distinctive Strix-exclusive design elements and ASUS Aura RGB lighting that add ambiance to any gaming setup or LAN part",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/Asus+ROG+Strix+15.6+HD+300Hz+(Ryzen+7)+%5BRTX+3050+Ti%5D_main.jpg"
+    ]
   },
   {
     "name": "Asus ROG Strix G15 15.6 HD 300Hz (Ryzen 7) [RTX 3050 Ti]",
@@ -137,7 +176,10 @@
     "brand": "Asus",
     "rating": 4.9,
     "numReviews": 59,
-    "description": "ROG Strix G15 XG259Q is all about speed — making it the perfect monitor for eSports and first-person shooters. This Full HD monitor is the fastest ever, with a 300Hz native refresh rate, 1ms response time and Extreme Low Motion Blur technology for silky-smooth gameplay and ultra-realistic visuals. Additionally, ROG Strix XG258Q has distinctive Strix-exclusive design elements and ASUS Aura RGB lighting that add ambiance to any gaming setup or LAN part"
+    "description": "ROG Strix G15 XG259Q is all about speed — making it the perfect monitor for eSports and first-person shooters. This Full HD monitor is the fastest ever, with a 300Hz native refresh rate, 1ms response time and Extreme Low Motion Blur technology for silky-smooth gameplay and ultra-realistic visuals. Additionally, ROG Strix XG258Q has distinctive Strix-exclusive design elements and ASUS Aura RGB lighting that add ambiance to any gaming setup or LAN part",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/Asus+ROG+Strix+G15+15.6+HD+300Hz+(Ryzen+7)+%5BRTX+3050+Ti%5D_main.jpg"
+    ]
   },
   {
     "name": "Alienware M15 R5 15.6 Full HD 165Hz (Ryzen 7) [RTX 3060]",
@@ -147,7 +189,10 @@
     "brand": "Alienware",
     "rating": 4.4,
     "numReviews": 12,
-    "description": "The new Alienware Series breaks all boundaries with our thinnest 15” and 17” gaming laptops, featuring exclusive Cryo-Tech innovations. *AlienFX touchpad on X-Series laptops require optional NVIDIA® GeForce RTX™ 3060 graphics card"
+    "description": "The new Alienware Series breaks all boundaries with our thinnest 15” and 17” gaming laptops, featuring exclusive Cryo-Tech innovations. *AlienFX touchpad on X-Series laptops require optional NVIDIA® GeForce RTX™ 3060 graphics card",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/Alienware+M15+R5+15.6+Full+HD+165Hz+(Ryzen+7)+%5BRTX+3060%5D_main.jpg"
+    ]
   },
   {
     "name": "Dell G15 15.6 Full HD Ryzen Edition (RTX 3050)",
@@ -157,7 +202,10 @@
     "brand": "Dell",
     "rating": 4.1,
     "numReviews": 40,
-    "description": "Designed for your next adventure, 15.6-inch gaming laptop with 10th Gen Intel® Core™ processors, NVIDIA® GeForce® graphics, and Game Shift technology."
+    "description": "Designed for your next adventure, 15.6-inch gaming laptop with 10th Gen Intel® Core™ processors, NVIDIA® GeForce® graphics, and Game Shift technology.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/Dell+G15+15.6+Full+HD+Ryzen+Edition+(RTX+3050)_main.jpg"
+    ]
   },
   {
     "name": "Alienware M15 15.6 Full HD 165Hz (Intel i7) [RTX 3070]",
@@ -167,7 +215,10 @@
     "brand": "Alienware",
     "rating": 4.4,
     "numReviews": 32,
-    "description": "The new Alienware M-Series breaks all boundaries with our thinnest 15” and 17” gaming laptops, featuring exclusive Cryo-Tech innovations. *AlienFX touchpad on X-Series laptops require optional NVIDIA® GeForce RTX™ 3070 graphics card"
+    "description": "The new Alienware M-Series breaks all boundaries with our thinnest 15” and 17” gaming laptops, featuring exclusive Cryo-Tech innovations. *AlienFX touchpad on X-Series laptops require optional NVIDIA® GeForce RTX™ 3070 graphics card",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/Alienware+M15+15.6+Full+HD+165Hz+(Intel+i7)+%5BRTX+3070%5D_main.jpg"
+    ]
   },
   {
     "name": "Microsoft Surface Laptop 4 13.5 Ryzen 5 256GB 8GB (Platinum)",
@@ -177,7 +228,10 @@
     "brand": "Microsoft",
     "rating": 4.9,
     "numReviews": 42,
-    "description": "Power to do what you want with up to 70% more speed and multitasking power than before and exclusive AMD Ryzen™ Microsoft Surface® Edition processor. Thin, light, elegant design with the light, portable 13.5”. Show your best side on video calls with sharp video and image quality, even in low light, thanks to a front-facing 720p HD camera."
+    "description": "Power to do what you want with up to 70% more speed and multitasking power than before and exclusive AMD Ryzen™ Microsoft Surface® Edition processor. Thin, light, elegant design with the light, portable 13.5”. Show your best side on video calls with sharp video and image quality, even in low light, thanks to a front-facing 720p HD camera.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/Microsoft+Surface+Laptop+4+13.5+Ryzen+5+256GB+8GB+(Platinum)_main.jpg"
+    ]
   },
   {
     "name": "Microsoft Surface Laptop 4 i7 512GB 16GB (Platinum)",
@@ -187,7 +241,10 @@
     "brand": "Microsoft",
     "rating": 4.7,
     "numReviews": 40,
-    "description": "Power to do what you want with up to 70% more speed and multitasking power than before and exclusive AMD Ryzen™ Microsoft Surface® Edition processor. Thin, light, elegant design with the light, portable 15”. Show your best side on video calls with sharp video and image quality, even in low light, thanks to a front-facing 720p HD camera."
+    "description": "Power to do what you want with up to 70% more speed and multitasking power than before and exclusive AMD Ryzen™ Microsoft Surface® Edition processor. Thin, light, elegant design with the light, portable 15”. Show your best side on video calls with sharp video and image quality, even in low light, thanks to a front-facing 720p HD camera.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/Microsoft+Surface+Laptop+4+i7+512GB+16GB+(Platinum)_main.jpg"
+    ]
   },
   {
     "name": "Microsoft Surface Laptop 4 i7 512GB 16GB (Matte Black)",
@@ -197,7 +254,10 @@
     "brand": "Microsoft",
     "rating": 4.5,
     "numReviews": 29,
-    "description": "Power to do what you want with up to 70% more speed and multitasking power than before and exclusive AMD Ryzen™ Microsoft Surface® Edition processor. Thin, light, elegant design with the light, portable 15”. Show your best side on video calls with sharp video and image quality, even in low light, thanks to a front-facing 720p HD camera."
+    "description": "Power to do what you want with up to 70% more speed and multitasking power than before and exclusive AMD Ryzen™ Microsoft Surface® Edition processor. Thin, light, elegant design with the light, portable 15”. Show your best side on video calls with sharp video and image quality, even in low light, thanks to a front-facing 720p HD camera.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/Microsoft+Surface+Laptop+4+i7+512GB+16GB+(Matte+Black)_main.jpg"
+    ]
   },
   {
     "name": "Microsoft Surface Laptop 4 i5 512GB 16GB (Sandstone)",
@@ -207,7 +267,10 @@
     "brand": "Microsoft",
     "rating": 4.1,
     "numReviews": 48,
-    "description": "Power to do what you want with up to 70% more speed and multitasking power than before and exclusive AMD Ryzen™ Microsoft Surface® Edition processor. Thin, light, elegant design with the light, portable 13.5”. Show your best side on video calls with sharp video and image quality, even in low light, thanks to a front-facing 720p HD camera."
+    "description": "Power to do what you want with up to 70% more speed and multitasking power than before and exclusive AMD Ryzen™ Microsoft Surface® Edition processor. Thin, light, elegant design with the light, portable 13.5”. Show your best side on video calls with sharp video and image quality, even in low light, thanks to a front-facing 720p HD camera.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/Microsoft+Surface+Laptop+4+i5+512GB+16GB+(Sandstone)_main.jpg"
+    ]
   },
   {
     "name": "Lenovo IdeaPad Slim 5i Full HD Laptop (512GB) [Intel i5]",
@@ -217,7 +280,10 @@
     "brand": "Lenovo",
     "rating": 3.5,
     "numReviews": 20,
-    "description": "The IdeaPad 5i comes with a host of options including a USB-C port with power delivery to charge your devices right from your laptop, and Quick Charging to get your battery charged as quickly as possible. And with speedy SSD drives, and bountiful memory options, this PC is more than just an everyday laptop."
+    "description": "The IdeaPad 5i comes with a host of options including a USB-C port with power delivery to charge your devices right from your laptop, and Quick Charging to get your battery charged as quickly as possible. And with speedy SSD drives, and bountiful memory options, this PC is more than just an everyday laptop.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/Lenovo+IdeaPad+Slim+5i+Full+HD+Laptop+(512GB)+%5BIntel+i5%5D_main.jpg"
+    ]
   },
   {
     "name": "Dell XPS 13.3 Full HD Laptop (256GB) [Intel i5]",
@@ -227,7 +293,10 @@
     "brand": "Dell",
     "rating": 4.1,
     "numReviews": 67,
-    "description": "Enjoy a screen that seems endless with a 3-sided InfinityEdge display, enabling a 13.3-inch screen in an 11-inch form factor with an 80.7% screen-to-body ratio. See every detail you didn't know you were missing with a stunning FHD display. maximizing the color spectrum with 100% sRGB color and a 1500:1 contrast ratio, every shadow takes shape and even the bright scenes gain definition."
+    "description": "Enjoy a screen that seems endless with a 3-sided InfinityEdge display, enabling a 13.3-inch screen in an 11-inch form factor with an 80.7% screen-to-body ratio. See every detail you didn't know you were missing with a stunning FHD display. maximizing the color spectrum with 100% sRGB color and a 1500:1 contrast ratio, every shadow takes shape and even the bright scenes gain definition.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/Dell+XPS+13.3+Full+HD+Laptop+(256GB)+%5BIntel+i5%5D_main.jpg"
+    ]
   },
   {
     "name": "LG gram EVO 17 WQXGA Laptop (512GB) [Intel i7]",
@@ -237,7 +306,10 @@
     "brand": "LG",
     "rating": 4.3,
     "numReviews": 15,
-    "description": "Whether for work or play, our LG gram deliver nimble performance that can meet the heavy demands of our data-rich, 24/7 connected world. Featuring sleek designs, a lightweight frame and long-life battery power, our LG laptops are the ideal accessory to power your passion!"
+    "description": "Whether for work or play, our LG gram deliver nimble performance that can meet the heavy demands of our data-rich, 24/7 connected world. Featuring sleek designs, a lightweight frame and long-life battery power, our LG laptops are the ideal accessory to power your passion!",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/LG+gram+EVO+17+WQXGA+Laptop+(512GB)+%5BIntel+i7%5D_main.jpg"
+    ]
   },
   {
     "name": "LG gram EVO 14 WUXGA Laptop (256GB) [Intel i5]",
@@ -247,7 +319,10 @@
     "brand": "LG",
     "rating": 4.5,
     "numReviews": 29,
-    "description": "Whether for work or play, our LG gram deliver nimble performance that can meet the heavy demands of our data-rich, 24/7 connected world. Featuring sleek designs, a lightweight frame and long-life battery power, our LG laptops are the ideal accessory to power your passion!"
+    "description": "Whether for work or play, our LG gram deliver nimble performance that can meet the heavy demands of our data-rich, 24/7 connected world. Featuring sleek designs, a lightweight frame and long-life battery power, our LG laptops are the ideal accessory to power your passion!",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/LG+gram+EVO+14+WUXGA+Laptop+(256GB)+%5BIntel+i5%5D_main.jpg"
+    ]
   },
   {
     "name": "MSI GS66 15.6 Full HD 240Hz (Intel i7) [RTX 3060]",
@@ -257,7 +332,10 @@
     "brand": "MSI",
     "rating": 4.1,
     "numReviews": 12,
-    "description": "GS66 reaches the highest battery legal capacity of 99.9Whr, allows up to 9 hours office work. It's a perfect Worker by day, Gamer by night machine."
+    "description": "GS66 reaches the highest battery legal capacity of 99.9Whr, allows up to 9 hours office work. It's a perfect Worker by day, Gamer by night machine.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/MSI+GS66+15.6+Full+HD+240Hz+(Intel+i7)+%5BRTX+3060%5D_main.jpg"
+    ]
   },
   {
     "name": "ASUS ZenBook Duo 14 UX482 14 Full HD (512GB) [Intel i7]",
@@ -267,7 +345,10 @@
     "brand": "Asus",
     "rating": 4.6,
     "numReviews": 50,
-    "description": "ZenBook Duo 14 UX482 laptop with dual-screen display lets you get things done in style: calmly, efficiently, and with zero fuss that helps empower endless possibilities. It’s your powerful and elegant next-level companion for on-the-go productivity and creativity, featuring the ScreenPad™ Plus secondary display with a brand-new tilting design offering effortless ergonomics and seamless workflows. Powered by the latest 11th Gen Intel® Core™ processors, ZenBook Duo 14 brings you all the benefits of tomorrow’s technology, today. It truly is the laptop of tomorrow."
+    "description": "ZenBook Duo 14 UX482 laptop with dual-screen display lets you get things done in style: calmly, efficiently, and with zero fuss that helps empower endless possibilities. It’s your powerful and elegant next-level companion for on-the-go productivity and creativity, featuring the ScreenPad™ Plus secondary display with a brand-new tilting design offering effortless ergonomics and seamless workflows. Powered by the latest 11th Gen Intel® Core™ processors, ZenBook Duo 14 brings you all the benefits of tomorrow’s technology, today. It truly is the laptop of tomorrow.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/ASUS+ZenBook+Duo+14+UX482+14+Full+HD+(512GB)+%5BIntel+i7%5D_main.jpg"
+    ]
   },
   {
     "name": "HP Omen 15-EK0119TX 15.6 Full HD (Intel i7) [GTX 1650 Ti]",
@@ -277,7 +358,10 @@
     "brand": "Omen",
     "rating": 4.9,
     "numReviews": 18,
-    "description": "The OMEN 15 is a perfect example of how there can never be too much of a good thing. With a powerful Intel® processor and NVIDIA® graphics cooled by OMEN Tempest Cooling, it makes you think how it all fits into such a tiny little package."
+    "description": "The OMEN 15 is a perfect example of how there can never be too much of a good thing. With a powerful Intel® processor and NVIDIA® graphics cooled by OMEN Tempest Cooling, it makes you think how it all fits into such a tiny little package.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/HP+Omen+15-EK0119TX+15.6+Full+HD+(Intel+i7)+%5BGTX+1650+Ti%5D_main.jpg"
+    ]
   },
   {
     "name": "Apple MacBook Pro 13-inch M1 chip, 256GB SSD (Space Grey)",
@@ -287,7 +371,10 @@
     "brand": "Apple",
     "rating": 4.5,
     "numReviews": 42,
-    "description": "The Apple M1 chip redefines the 13-inch MacBook Pro. Featuring an 8-core CPU that flies through complex workflows in photography, coding, video editing and more. An incredible 8-core GPU that crushes graphics-intensive tasks and enables super-smooth gaming. An advanced 16-core Neural Engine for more machine learning power in your favourite apps. Superfast unified memory for fluid performance. And the longest-ever battery life in a Mac, at up to 20 hours.2 It’s Apple’s most popular pro notebook. Much more performance and much more pro."
+    "description": "The Apple M1 chip redefines the 13-inch MacBook Pro. Featuring an 8-core CPU that flies through complex workflows in photography, coding, video editing and more. An incredible 8-core GPU that crushes graphics-intensive tasks and enables super-smooth gaming. An advanced 16-core Neural Engine for more machine learning power in your favourite apps. Superfast unified memory for fluid performance. And the longest-ever battery life in a Mac, at up to 20 hours.2 It’s Apple’s most popular pro notebook. Much more performance and much more pro.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/Apple+MacBook+Pro+13-inch+M1+chip%2C+256GB+SSD+(Space+Grey)_main.jpg"
+    ]
   },
   {
     "name": "Apple MacBook Pro 13-inch with M1 chip, 512GB SSD (Space Grey)",
@@ -297,7 +384,10 @@
     "brand": "Apple",
     "rating": 4.7,
     "numReviews": 60,
-    "description": "The Apple M1 chip redefines the 13-inch MacBook Pro. Featuring an 8-core CPU that flies through complex workflows in photography, coding, video editing and more. An incredible 8-core GPU that crushes graphics-intensive tasks and enables super-smooth gaming. An advanced 16-core Neural Engine for more machine learning power in your favourite apps. Superfast unified memory for fluid performance. And the longest-ever battery life in a Mac, at up to 20 hours.2 It’s Apple’s most popular pro notebook. Much more performance and much more pro."
+    "description": "The Apple M1 chip redefines the 13-inch MacBook Pro. Featuring an 8-core CPU that flies through complex workflows in photography, coding, video editing and more. An incredible 8-core GPU that crushes graphics-intensive tasks and enables super-smooth gaming. An advanced 16-core Neural Engine for more machine learning power in your favourite apps. Superfast unified memory for fluid performance. And the longest-ever battery life in a Mac, at up to 20 hours.2 It’s Apple’s most popular pro notebook. Much more performance and much more pro.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/Apple+MacBook+Pro+13-inch+with+M1+chip%2C+512GB+SSD+(Space+Grey)_main.jpg"
+    ]
   },
   {
     "name": "Apple MacBook Air 13-inch M1 chip, 7-core GPU, 256GB SSD (Gold)",
@@ -307,6 +397,9 @@
     "brand": "Apple",
     "rating": 4.3,
     "numReviews": 79,
-    "description": "Apple’s thinnest and lightest notebook gets supercharged with the Apple M1 chip. Tackle your projects with the blazing-fast 8-core CPU. Take graphics-intensive apps and games to the next level with a 7-core GPU. And accelerate machine learning tasks with the 16-core Neural Engine. All with a silent, fanless design and the longest battery life ever — up to 18 hours.1 MacBook Air. Still perfectly portable. Just a lot more powerful."
+    "description": "Apple’s thinnest and lightest notebook gets supercharged with the Apple M1 chip. Tackle your projects with the blazing-fast 8-core CPU. Take graphics-intensive apps and games to the next level with a 7-core GPU. And accelerate machine learning tasks with the 16-core Neural Engine. All with a silent, fanless design and the longest battery life ever — up to 18 hours.1 MacBook Air. Still perfectly portable. Just a lot more powerful.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/laptops/Apple+MacBook+Air+13-inch+M1+chip%2C+7-core+GPU%2C+256GB+SSD+(Gold)_main.jpg"
+    ]
   }
 ]
