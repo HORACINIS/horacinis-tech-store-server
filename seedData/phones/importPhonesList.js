@@ -1,20 +1,8 @@
-const dotenv = require('dotenv');
-dotenv.config({ path: './config.env' });
-const mongoose = require('mongoose');
 const Phone = require('../../models/phoneModel');
 const fs = require('fs');
+const connectDB = require('./../../config/db');
 
-const DB = process.env.PRODUCTS_DATABASE
-  .replace('<USERNAME>', process.env.PRODUCTS_DATABASE_USERNAME)
-  .replace('<PASSWORD>', process.env.PRODUCTS_DATABASE_PASSWORD);
-
-mongoose.connect(DB, {
-  useNewUrlParser: true,
-  useUnifiedTopology: true
-})
-  .then(() => console.log('Database connected successfully!'))
-  .catch((err) => console.log(err));
-
+connectDB();
 const phonesList = JSON.parse(fs.readFileSync(`${__dirname}/phonesList.json`, 'utf-8'));
 
 const importData = async () => {
@@ -22,6 +10,7 @@ const importData = async () => {
     await Phone.create(phonesList);
     console.log('Phone List data successfully imported!');
   } catch (err) {
+    console.log('Phone List data could not be imported!');
     console.log(err);
   }
   process.exit();
@@ -32,6 +21,7 @@ const deleteData = async () => {
     await Phone.deleteMany();
     console.log('Phone List Data successfully deleted!');
   } catch (err) {
+    console.log('Phone List Data could not be deleted!');
     console.log(err);
   }
   process.exit();
