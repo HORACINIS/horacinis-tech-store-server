@@ -36,7 +36,8 @@ const laptopSchema = new mongoose.Schema({
   description: {
     type: String,
     trim: true
-  }
+  },
+  moreImages: [String]
 });
 
 const Laptop = mongoose.model('Laptop', laptopSchema);

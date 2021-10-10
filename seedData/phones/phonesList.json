@@ -7,7 +7,123 @@
     "brand": "Samsung",
     "rating": 3.7,
     "numReviews": 32,
-    "description": "Miss nothing, with Galaxy S21. When capturing your best moments, you no longer have to choose between photo and video. Galaxy S21 captures both, simultaneously, so you’ll never miss a moment. With 108MP camera and 8K video recording, capture the highest quality images and videos on a smartphone. Have the power to last with our toughest display, fastest processor and our most powerful battery yet."
+    "description": "Miss nothing, with Galaxy S21. When capturing your best moments, you no longer have to choose between photo and video. Galaxy S21 captures both, simultaneously, so you’ll never miss a moment. With 108MP camera and 8K video recording, capture the highest quality images and videos on a smartphone. Have the power to last with our toughest display, fastest processor and our most powerful battery yet.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+Ultra+5G+256GB+(Black)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+Ultra+5G+256GB+(Black)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+Ultra+5G+256GB+(Black)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+Ultra+5G+256GB+(Black)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+Ultra+5G+256GB+(Black)_04.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+Ultra+5G+256GB+(Black)_05.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+Ultra+5G+256GB+(Black)_06.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+Ultra+5G+256GB+(Black)_07.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+Ultra+5G+256GB+(Black)_08.jpg"
+    ]
+  },
+  {
+    "name": "Apple iPhone 13 Pro 1TB (Graphite)",
+    "category": "phones",
+    "image": "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Graphite)_main.jpg",
+    "price": 2569,
+    "brand": "Apple",
+    "rating": 4.5,
+    "numReviews": 12,
+    "description": "iPhone 13 Pro. The biggest Pro camera system upgrade ever. Super Retina XDR display with ProMotion for a faster, more responsive feel. Lightning-fast A15 Bionic chip. Superfast 5G. Durable design, and a huge leap in battery life.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Graphite)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Graphite)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Graphite)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Graphite)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Graphite)_04.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Graphite)_05.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Graphite)_06.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Graphite)_07.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Graphite)_08.jpg"
+    ]
+  },
+  {
+    "name": "Apple iPhone 13 Pro 1TB (Gold)",
+    "category": "phones",
+    "image": "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Gold)_main.jpg",
+    "price": 2569,
+    "brand": "Apple",
+    "rating": 4.3,
+    "numReviews": 22,
+    "description": "iPhone 13 Pro. The biggest Pro camera system upgrade ever. Super Retina XDR display with ProMotion for a faster, more responsive feel. Lightning-fast A15 Bionic chip. Superfast 5G. Durable design, and a huge leap in battery life.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Gold)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Gold)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Gold)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Gold)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Gold)_04.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Gold)_05.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Gold)_06.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Gold)_07.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Gold)_08.jpg"
+    ]
+  },
+  {
+    "name": "Apple iPhone 13 Pro 1TB (Silver)",
+    "category": "phones",
+    "image": "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Silver)_main.jpg",
+    "price": 2569,
+    "brand": "Apple",
+    "rating": 4.5,
+    "numReviews": 23,
+    "description": "iPhone 13 Pro. The biggest Pro camera system upgrade ever. Super Retina XDR display with ProMotion for a faster, more responsive feel. Lightning-fast A15 Bionic chip. Superfast 5G. Durable design, and a huge leap in battery life.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Silver)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Silver)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Silver)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Silver)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Silver)_04.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Silver)_05.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Silver)_06.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Silver)_07.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Silver)_08.jpg"
+    ]
+  },
+  {
+    "name": "Apple iPhone 13 Pro Max 256GB (Gold)",
+    "category": "phones",
+    "image": "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+Max+256GB+(Gold)_main.jpg",
+    "price": 2019,
+    "brand": "Apple",
+    "rating": 4.8,
+    "numReviews": 33,
+    "description": "iPhone 13 Pro Max. The biggest Pro camera system upgrade ever. Super Retina XDR display with ProMotion for a faster, more responsive feel. Lightning-fast A15 Bionic chip. Superfast 5G. Durable design, and the best battery life ever in an iPhone.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+Max+256GB+(Gold)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+Max+256GB+(Gold)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+Max+256GB+(Gold)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+Max+256GB+(Gold)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+Max+256GB+(Gold)_04.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+Max+256GB+(Gold)_05.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+Max+256GB+(Gold)_06.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+Max+256GB+(Gold)_07.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+Max+256GB+(Gold)_08.jpg"
+    ]
+  },
+  {
+    "name": "Apple iPhone 13 Pro Max 256GB (Graphite)",
+    "category": "phones",
+    "image": "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+Max+256GB+(Graphite)_main.jpg",
+    "price": 2019,
+    "brand": "Apple",
+    "rating": 4.6,
+    "numReviews": 24,
+    "description": "iPhone 13 Pro Max. The biggest Pro camera system upgrade ever. Super Retina XDR display with ProMotion for a faster, more responsive feel. Lightning-fast A15 Bionic chip. Superfast 5G. Durable design, and the best battery life ever in an iPhone.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+Max+256GB+(Graphite)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+Max+256GB+(Graphite)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+Max+256GB+(Graphite)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+Max+256GB+(Graphite)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+Max+256GB+(Graphite)_04.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+Max+256GB+(Graphite)_05.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+Max+256GB+(Graphite)_06.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+Max+256GB+(Graphite)_07.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+Max+256GB+(Graphite)_08.jpg"
+    ]
   },
   {
     "name": "Apple iPhone 12 Pro Max 128GB (Pacific Blue)",
@@ -17,7 +133,15 @@
     "brand": "Apple",
     "rating": 4.6,
     "numReviews": 23,
-    "description": "iPhone 12 Pro Max. 5G to download huge files on the go and stream HDR video.1 Larger 6.7-inch Super Retina XDR display.2 Ceramic Shield with four times better drop performance.3 Incredible low-light photography with the best Pro camera system on an iPhone, and 5× optical zoom range. Cinema-grade Dolby Vision video recording, editing and playback. Night mode portraits and next-level AR experiences with the LiDAR Scanner. Powerful A14 Bionic chip. And new MagSafe accessories for easy attachment and faster wireless charging.4 For infinitely spectacular possibilities."
+    "description": "iPhone 12 Pro Max. 5G to download huge files on the go and stream HDR video.1 Larger 6.7-inch Super Retina XDR display.2 Ceramic Shield with four times better drop performance.3 Incredible low-light photography with the best Pro camera system on an iPhone, and 5× optical zoom range. Cinema-grade Dolby Vision video recording, editing and playback. Night mode portraits and next-level AR experiences with the LiDAR Scanner. Powerful A14 Bionic chip. And new MagSafe accessories for easy attachment and faster wireless charging.4 For infinitely spectacular possibilities.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+Pro+Max+128GB+(Pacific+Blue)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+Pro+Max+128GB+(Pacific+Blue)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+Pro+Max+128GB+(Pacific+Blue)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+Pro+Max+128GB+(Pacific+Blue)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+Pro+Max+128GB+(Pacific+Blue)_04.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+Pro+Max+128GB+(Pacific+Blue)_05.jpg"
+    ]
   },
   {
     "name": "Samsung Galaxy Note20 Ultra 5G 256GB (Black)",
@@ -27,7 +151,16 @@
     "brand": "Samsung",
     "rating": 3.9,
     "numReviews": 29,
-    "description": "Forget work-life balance, Galaxy Note20 Ultra 5G gives you work-life flow. Hold the power of a computer in the palm of your hand and scribble with the S Pen that feels just like pen-to paper. Work smarter, play harder with our fastest Galaxy Note processor, smoothest display1 and superfast 5G2. It’s a gaming machine."
+    "description": "Forget work-life balance, Galaxy Note20 Ultra 5G gives you work-life flow. Hold the power of a computer in the palm of your hand and scribble with the S Pen that feels just like pen-to paper. Work smarter, play harder with our fastest Galaxy Note processor, smoothest display1 and superfast 5G2. It’s a gaming machine.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Note20+Ultra+5G+256GB+(Black)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Note20+Ultra+5G+256GB+(Black)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Note20+Ultra+5G+256GB+(Black)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Note20+Ultra+5G+256GB+(Black)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Note20+Ultra+5G+256GB+(Black)_04.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Note20+Ultra+5G+256GB+(Black)_05.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Note20+Ultra+5G+256GB+(Black)_06.jpg"
+    ]
   },
   {
     "name": "Nokia XR20 5G 128GB (Blue)",
@@ -37,7 +170,17 @@
     "brand": "Nokia",
     "rating": 2.4,
     "numReviews": 13,
-    "description": "Nokia XR20 comes with the assurance of an industry-leading 3 year manufacturer’s warranty. The quality and craftsmanship behind Nokia X series phones give us the confidence to offer a longer warranty, because we believe you should love it, trust it and keep it."
+    "description": "Nokia XR20 comes with the assurance of an industry-leading 3 year manufacturer’s warranty. The quality and craftsmanship behind Nokia X series phones give us the confidence to offer a longer warranty, because we believe you should love it, trust it and keep it.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Nokia+XR20+5G+128GB+(Blue)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Nokia+XR20+5G+128GB+(Blue)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Nokia+XR20+5G+128GB+(Blue)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Nokia+XR20+5G+128GB+(Blue)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Nokia+XR20+5G+128GB+(Blue)_04.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Nokia+XR20+5G+128GB+(Blue)_05.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Nokia+XR20+5G+128GB+(Blue)_06.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Nokia+XR20+5G+128GB+(Blue)_07.jpg"
+    ]
   },
   {
     "name": "Motorola G30 128GB (Phantom Black)",
@@ -47,7 +190,14 @@
     "brand": "Motorola",
     "rating": 4.2,
     "numReviews": 22,
-    "description": "You want brilliance. You got it. Meet moto g30. Looking to capture stunning ultra-high resolution photos? You get an awesome 64 MP quad camera system. How about smoother-looking games and seamless scrolling? Done. The 90 Hz display refreshes faster than phones with standard displays. Maybe you want more room for photos, movies, and music? Check, check, and check. You get 128 GB of storage built right in1.Craving faster charging and longer battery life? No worries there. TurboPower™2 and a two-day battery2 keep you going. Wanna boost performance in everything you do? With moto g30 and its Qualcomm® Snapdragon™ processor, you got it."
+    "description": "You want brilliance. You got it. Meet moto g30. Looking to capture stunning ultra-high resolution photos? You get an awesome 64 MP quad camera system. How about smoother-looking games and seamless scrolling? Done. The 90 Hz display refreshes faster than phones with standard displays. Maybe you want more room for photos, movies, and music? Check, check, and check. You get 128 GB of storage built right in1.Craving faster charging and longer battery life? No worries there. TurboPower™2 and a two-day battery2 keep you going. Wanna boost performance in everything you do? With moto g30 and its Qualcomm® Snapdragon™ processor, you got it.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Motorola+G30+128GB+(Phantom+Black)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Motorola+G30+128GB+(Phantom+Black)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Motorola+G30+128GB+(Phantom+Black)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Motorola+G30+128GB+(Phantom+Black)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Motorola+G30+128GB+(Phantom+Black)_04.jpg"
+    ]
   },
   {
     "name": "Samsung Galaxy Z Flip3 5G 256GB (Cream)",
@@ -57,7 +207,19 @@
     "brand": "Samsung",
     "rating": 4.9,
     "numReviews": 27,
-    "description": "The full screen phone that folds to fit in your pocket with revolutionary flexible glass, a camera designed to stand on its own, a dual battery that is long lasting, and the speed of 5G^. Meet the phone changing the shape of the future."
+    "description": "The full screen phone that folds to fit in your pocket with revolutionary flexible glass, a camera designed to stand on its own, a dual battery that is long lasting, and the speed of 5G^. Meet the phone changing the shape of the future.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Z+Flip3+5G+256GB+(Cream)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Z+Flip3+5G+256GB+(Cream)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Z+Flip3+5G+256GB+(Cream)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Z+Flip3+5G+256GB+(Cream)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Z+Flip3+5G+256GB+(Cream)_04.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Z+Flip3+5G+256GB+(Cream)_05.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Z+Flip3+5G+256GB+(Cream)_06.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Z+Flip3+5G+256GB+(Cream)_07.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Z+Flip3+5G+256GB+(Cream)_08.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Z+Flip3+5G+256GB+(Cream)_09.jpg"
+    ]
   },
   {
     "name": "Samsung Galaxy Z Fold3 5G 512GB (Silver)",
@@ -67,7 +229,20 @@
     "brand": "Samsung",
     "rating": 4.9,
     "numReviews": 29,
-    "description": "Experience Galaxy Z Fold3’s stunning full front 6.2-inch display and folding inner 7.6-inch display to jump straight from smartphone to a theatre-like experience.*  Enjoy a truly seamless display experience with up to 120Hz refresh rate on both the cover and main display as well as a cleverly concealed under-the-screen front camera."
+    "description": "Experience Galaxy Z Fold3’s stunning full front 6.2-inch display and folding inner 7.6-inch display to jump straight from smartphone to a theatre-like experience.*  Enjoy a truly seamless display experience with up to 120Hz refresh rate on both the cover and main display as well as a cleverly concealed under-the-screen front camera.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Z+Fold3+5G+512GB+(Silver)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Z+Fold3+5G+512GB+(Silver)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Z+Fold3+5G+512GB+(Silver)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Z+Fold3+5G+512GB+(Silver)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Z+Fold3+5G+512GB+(Silver)_04.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Z+Fold3+5G+512GB+(Silver)_05.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Z+Fold3+5G+512GB+(Silver)_06.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Z+Fold3+5G+512GB+(Silver)_07.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Z+Fold3+5G+512GB+(Silver)_08.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Z+Fold3+5G+512GB+(Silver)_09.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Z+Fold3+5G+512GB+(Silver)_10.jpg"
+    ]
   },
   {
     "name": "realme 7 5G 128GB (Mist Blue)",
@@ -77,7 +252,14 @@
     "brand": "realme",
     "rating": 3.1,
     "numReviews": 14,
-    "description": "5G is for everyone with all new realme 7 5G! realme is breaking down the barriers of what’s possible with this device, delivering the latest innovations to Aussies for an affordable price. Equipped with a theoretical download speed in 5G network that reaches up to 2.34Gbps, stream the latest HD movies or video call friends and family with the clearest of resolutions. The 120Hz ultra smooth display offers the smoothest visuals with every touch. With a massive 5000mAh battery that lasts up to 25 days on standby, battery drain anxieties are a distant memory. Enter the next evolution of smartphone innovation with the realme 7 5G."
+    "description": "5G is for everyone with all new realme 7 5G! realme is breaking down the barriers of what’s possible with this device, delivering the latest innovations to Aussies for an affordable price. Equipped with a theoretical download speed in 5G network that reaches up to 2.34Gbps, stream the latest HD movies or video call friends and family with the clearest of resolutions. The 120Hz ultra smooth display offers the smoothest visuals with every touch. With a massive 5000mAh battery that lasts up to 25 days on standby, battery drain anxieties are a distant memory. Enter the next evolution of smartphone innovation with the realme 7 5G.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/realme+7+5G+128GB+(Mist+Blue)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/realme+7+5G+128GB+(Mist+Blue)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/realme+7+5G+128GB+(Mist+Blue)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/realme+7+5G+128GB+(Mist+Blue)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/realme+7+5G+128GB+(Mist+Blue)_04.jpg"
+    ]
   },
   {
     "name": "Vivo Y52 5G 128GB (Black)",
@@ -87,17 +269,34 @@
     "brand": "Vivo",
     "rating": 2.5,
     "numReviews": 28,
-    "description": "Enjoy better performance with the 5G connectivity and the powerful processors handle multi-tasks with ease. Along with an 4GB memory and 128GB storage, enjoy a smoother 5G experience with faster connection and multiple app downloads."
+    "description": "Enjoy better performance with the 5G connectivity and the powerful processors handle multi-tasks with ease. Along with an 4GB memory and 128GB storage, enjoy a smoother 5G experience with faster connection and multiple app downloads.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Vivo+Y52+5G+128GB+(Black)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Vivo+Y52+5G+128GB+(Black)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Vivo+Y52+5G+128GB+(Black)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Vivo+Y52+5G+128GB+(Black)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Vivo+Y52+5G+128GB+(Black)_04.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Vivo+Y52+5G+128GB+(Black)_05.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Vivo+Y52+5G+128GB+(Black)_06.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Vivo+Y52+5G+128GB+(Black)_07.jpg"
+    ]
   },
   {
     "name": "Motorola Edge 20 Pro 5G 256GB (Midnight Sky)",
     "category": "phones",
     "image": "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Motorola+Edge+20+Pro+5G+256GB+(Midnight+Sky)_main.jpg",
-    "price": 1599,
+    "price": 899,
     "brand": "Motorola",
-    "rating": 4.1,
+    "rating": 3.9,
     "numReviews": 26,
-    "description": "The world has changed. And a new kind of world calls for a new kind of phone. One that takes the latest smartphone experiences to another level, empowering you to tell your story like never before. The new motorola edge 20 pro was born for this. Featuring our most advanced camera system ever, you can capture stunning ultra-high res photos with a 108 MP sensor, and focus from incredible distances with 50x Super Zoom. Or view a billion shades of colour on a breathtaking 6.7 inch display with the fastest smartphone refresh rate. Even connect your phone to the big screen with Ready For to play games, make video calls, and use your favourite apps. It’s time to unleash your creativity. motorola edge 20 pro is here."
+    "description": "The world has changed. And a new kind of world calls for a new kind of phone. One that takes the latest smartphone experiences to another level, empowering you to tell your story like never before. The new motorola edge 20 pro was born for this. Featuring our most advanced camera system ever, you can capture stunning ultra-high res photos with a 108 MP sensor, and focus from incredible distances with 50x Super Zoom. Or view a billion shades of colour on a breathtaking 6.7 inch display with the fastest smartphone refresh rate. Even connect your phone to the big screen with Ready For to play games, make video calls, and use your favourite apps. It’s time to unleash your creativity. motorola edge 20 pro is here.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Motorola+Edge+20+Pro+5G+256GB+(Midnight+Sky)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Motorola+Edge+20+Pro+5G+256GB+(Midnight+Sky)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Motorola+Edge+20+Pro+5G+256GB+(Midnight+Sky)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Motorola+Edge+20+Pro+5G+256GB+(Midnight+Sky)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Motorola+Edge+20+Pro+5G+256GB+(Midnight+Sky)_04.jpg"
+    ]
   },
   {
     "name": "Samsung Galaxy A32 128GB (Violet)",
@@ -107,7 +306,18 @@
     "brand": "Samsung",
     "rating": 4.3,
     "numReviews": 46,
-    "description": "The new Galaxy A32 gives you more of what you like with an awesome screen, awesome camera and long-lasting battery life. It’s the phone built for streaming, gaming and social – all coming to life on a bright 6.4” screen. Best of all, the new Fun Mode makes taking selfies even more fun."
+    "description": "The new Galaxy A32 gives you more of what you like with an awesome screen, awesome camera and long-lasting battery life. It’s the phone built for streaming, gaming and social – all coming to life on a bright 6.4” screen. Best of all, the new Fun Mode makes taking selfies even more fun.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+A32+128GB+(Violet)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+A32+128GB+(Violet)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+A32+128GB+(Violet)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+A32+128GB+(Violet)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+A32+128GB+(Violet)_04.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+A32+128GB+(Violet)_05.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+A32+128GB+(Violet)_06.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+A32+128GB+(Violet)_07.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+A32+128GB+(Violet)_08.jpg"
+    ]
   },
   {
     "name": "Asus Zenfone 8 Flip 5G 256GB (Galactic Black)",
@@ -117,7 +327,12 @@
     "brand": "Asus",
     "rating": 4.1,
     "numReviews": 32,
-    "description": "Zenfone 8 Flip defies ordinary to excel in everything it does. The innovative Flip Camera gives you professional-quality front or rear photos. There’s powerful performance from the Qualcomm® Snapdragon™ 888 5G Mobile Platform. It has a superb AMOLED display and delivers incredible endurance from its massive battery. Get ready to see, hear and interact with the world in an extraordinary way!"
+    "description": "Zenfone 8 Flip defies ordinary to excel in everything it does. The innovative Flip Camera gives you professional-quality front or rear photos. There’s powerful performance from the Qualcomm® Snapdragon™ 888 5G Mobile Platform. It has a superb AMOLED display and delivers incredible endurance from its massive battery. Get ready to see, hear and interact with the world in an extraordinary way!",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Asus+Zenfone+8+Flip+5G+256GB+(Galactic+Black)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Asus+Zenfone+8+Flip+5G+256GB+(Galactic+Black)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Asus+Zenfone+8+Flip+5G+256GB+(Galactic+Black)_02.jpg"
+    ]
   },
   {
     "name": "Vivo X60 Pro 5G 256GB (Midnight Black)",
@@ -127,7 +342,21 @@
     "brand": "Vivo",
     "rating": 4.8,
     "numReviews": 26,
-    "description": "Co-Engineered by vivo and ZEISS The Power Behind the Shot. Discover cutting-edge design and technology from vivo, paired with imaging quality co-engineered by ZEISS. The X60 Pro introduces a groundbreaking photography experience like no other."
+    "description": "Co-Engineered by vivo and ZEISS The Power Behind the Shot. Discover cutting-edge design and technology from vivo, paired with imaging quality co-engineered by ZEISS. The X60 Pro introduces a groundbreaking photography experience like no other.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Vivo+X60+Pro+5G+256GB+(Midnight+Black)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Vivo+X60+Pro+5G+256GB+(Midnight+Black)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Vivo+X60+Pro+5G+256GB+(Midnight+Black)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Vivo+X60+Pro+5G+256GB+(Midnight+Black)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Vivo+X60+Pro+5G+256GB+(Midnight+Black)_04.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Vivo+X60+Pro+5G+256GB+(Midnight+Black)_05.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Vivo+X60+Pro+5G+256GB+(Midnight+Black)_06.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Vivo+X60+Pro+5G+256GB+(Midnight+Black)_07.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Vivo+X60+Pro+5G+256GB+(Midnight+Black)_08.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Vivo+X60+Pro+5G+256GB+(Midnight+Black)_09.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Vivo+X60+Pro+5G+256GB+(Midnight+Black)_10.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Vivo+X60+Pro+5G+256GB+(Midnight+Black)_11.jpg"
+    ]
   },
   {
     "name": "Samsung Galaxy S21 5G 256GB (Pink)",
@@ -137,7 +366,18 @@
     "brand": "Samsung",
     "rating": 4.3,
     "numReviews": 42,
-    "description": "Miss nothing, with Galaxy S21 5G. A camera so good, everyone’s a pro. When capturing your best moments, you no longer have to choose between photo and video. Galaxy S21 captures both, simultaneously, so you’ll never miss a moment. Capture big screen quality videos in stunning 8K resolution* and zoom in with less pixilation with 3x Optical Zoom."
+    "description": "Miss nothing, with Galaxy S21 5G. A camera so good, everyone’s a pro. When capturing your best moments, you no longer have to choose between photo and video. Galaxy S21 captures both, simultaneously, so you’ll never miss a moment. Capture big screen quality videos in stunning 8K resolution* and zoom in with less pixilation with 3x Optical Zoom.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+256GB+(Pink)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+256GB+(Pink)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+256GB+(Pink)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+256GB+(Pink)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+256GB+(Pink)_04.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+256GB+(Pink)_05.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+256GB+(Pink)_06.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+256GB+(Pink)_07.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+256GB+(Pink)_08.jpg"
+    ]
   },
   {
     "name": "Apple iPhone 12 Pro Max 512GB (Gold)",
@@ -147,7 +387,15 @@
     "brand": "Apple",
     "rating": 4.2,
     "numReviews": 13,
-    "description": "iPhone 12 Pro Max. 5G to download huge files on the go and stream HDR video.1 Larger 6.7-inch Super Retina XDR display.2 Ceramic Shield with four times better drop performance.3 Incredible low-light photography with the best Pro camera system on an iPhone, and 5× optical zoom range. Cinema-grade Dolby Vision video recording, editing and playback. Night mode portraits and next-level AR experiences with the LiDAR Scanner. Powerful A14 Bionic chip. And new MagSafe accessories for easy attachment and faster wireless charging.4 For infinitely spectacular possibilities."
+    "description": "iPhone 12 Pro Max. 5G to download huge files on the go and stream HDR video.1 Larger 6.7-inch Super Retina XDR display.2 Ceramic Shield with four times better drop performance.3 Incredible low-light photography with the best Pro camera system on an iPhone, and 5× optical zoom range. Cinema-grade Dolby Vision video recording, editing and playback. Night mode portraits and next-level AR experiences with the LiDAR Scanner. Powerful A14 Bionic chip. And new MagSafe accessories for easy attachment and faster wireless charging.4 For infinitely spectacular possibilities.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+Pro+Max+512GB+(Gold)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+Pro+Max+512GB+(Gold)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+Pro+Max+512GB+(Gold)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+Pro+Max+512GB+(Gold)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+Pro+Max+512GB+(Gold)_04.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+Pro+Max+512GB+(Gold)_05.jpg"
+    ]
   },
   {
     "name": "Asus ROG 3 Gaming Phone (512GB)",
@@ -157,27 +405,31 @@
     "brand": "Asus",
     "rating": 4.4,
     "numReviews": 29,
-    "description": "To achieve the best performance, it is not enough to use the best hardware available. ROG Phone 3 takes it further by granting the user PC-like control of the SoC, letting them overclock and increase the throttle limit for unprecedented performance with sustained high frame rate over time, or underclock for longer battery life and more comfortable skin temperature. All of this would not be possible without the efficient “GameCool 3” cooling system that moves heat out of the case for much lower temperatures."
+    "description": "To achieve the best performance, it is not enough to use the best hardware available. ROG Phone 3 takes it further by granting the user PC-like control of the SoC, letting them overclock and increase the throttle limit for unprecedented performance with sustained high frame rate over time, or underclock for longer battery life and more comfortable skin temperature. All of this would not be possible without the efficient “GameCool 3” cooling system that moves heat out of the case for much lower temperatures.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Asus+ROG+3+Gaming+Phone+(512GB)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Asus+ROG+3+Gaming+Phone+(512GB)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Asus+ROG+3+Gaming+Phone+(512GB)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Asus+ROG+3+Gaming+Phone+(512GB)_03.jpg"
+    ]
   },
   {
     "name": "Apple iPhone 12 mini 64GB (White)",
     "category": "phones",
     "image": "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+mini+64GB+(White)_main.jpg",
-    "price": 884,
+    "price": 999,
     "brand": "Apple",
     "rating": 4.1,
     "numReviews": 52,
-    "description": "iPhone 12 mini. Immerse yourself in the 5.4-inch Super Retina XDR display with brighter brights and lifelike colour.2 In a perfectly small size."
-  },
-  {
-    "name": "Apple iPhone 12 Pro 256GB (Graphite)",
-    "category": "phones",
-    "image": "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+Pro+256GB+(Graphite)_main.jpg",
-    "price": 1869,
-    "brand": "Apple",
-    "rating": 4.7,
-    "numReviews": 27,
-    "description": "iPhone 12 Pro. 5G to download huge files on the go and stream HDR video.1 Beautifully bright 6.1-inch Super Retina XDR display.2 Ceramic Shield with four times better drop performance.3 Incredible low-light photography with a new Pro camera system, and 4× optical zoom range. Cinema-grade Dolby Vision video recording, editing and playback. Night mode portraits and next-level AR experiences with the LiDAR Scanner. Powerful A14 Bionic chip. And new MagSafe accessories for easy attachment and faster wireless charging.4 For infinitely spectacular possibilities."
+    "description": "iPhone 12 mini. Immerse yourself in the 5.4-inch Super Retina XDR display with brighter brights and lifelike colour.2 In a perfectly small size.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+mini+64GB+(White)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+mini+64GB+(White)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+mini+64GB+(White)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+mini+64GB+(White)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+mini+64GB+(White)_04.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+mini+64GB+(White)_05.jpg"
+    ]
   },
   {
     "name": "Apple iPhone 12 Pro 256GB (Silver)",
@@ -187,7 +439,15 @@
     "brand": "Apple",
     "rating": 4.6,
     "numReviews": 31,
-    "description": "iPhone 12 Pro. 5G to download huge files on the go and stream HDR video.1 Beautifully bright 6.1-inch Super Retina XDR display.2 Ceramic Shield with four times better drop performance.3 Incredible low-light photography with a new Pro camera system, and 4× optical zoom range. Cinema-grade Dolby Vision video recording, editing and playback. Night mode portraits and next-level AR experiences with the LiDAR Scanner. Powerful A14 Bionic chip. And new MagSafe accessories for easy attachment and faster wireless charging.4 For infinitely spectacular possibilities."
+    "description": "iPhone 12 Pro. 5G to download huge files on the go and stream HDR video.1 Beautifully bright 6.1-inch Super Retina XDR display.2 Ceramic Shield with four times better drop performance.3 Incredible low-light photography with a new Pro camera system, and 4× optical zoom range. Cinema-grade Dolby Vision video recording, editing and playback. Night mode portraits and next-level AR experiences with the LiDAR Scanner. Powerful A14 Bionic chip. And new MagSafe accessories for easy attachment and faster wireless charging.4 For infinitely spectacular possibilities.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+Pro+256GB+(Silver)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+Pro+256GB+(Silver)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+Pro+256GB+(Silver)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+Pro+256GB+(Silver)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+Pro+256GB+(Silver)_04.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+Pro+256GB+(Silver)_05.jpg"
+    ]
   },
   {
     "name": "Asus ROG 5 Gaming Phone 5G 256GB (Phantom Black)",
@@ -197,7 +457,20 @@
     "brand": "Asus",
     "rating": 4.6,
     "numReviews": 14,
-    "description": "Play to the max with ROG Phone 5, the ultimate gaming phone build for gamers. Powered to win with the latest Qualcomm® Snapdragon™ 888 5G Mobile Platform, this futuristic wonder packs an unbelievably responsive 144 Hz / 1ms display, a monster 6000mAh1 battery system, massively upgraded AirTrigger 5 game controls, and our iconic GameFX audio system. ROG Phone 5 will take your gaming to a new dimension — if you dare."
+    "description": "Play to the max with ROG Phone 5, the ultimate gaming phone build for gamers. Powered to win with the latest Qualcomm® Snapdragon™ 888 5G Mobile Platform, this futuristic wonder packs an unbelievably responsive 144 Hz / 1ms display, a monster 6000mAh1 battery system, massively upgraded AirTrigger 5 game controls, and our iconic GameFX audio system. ROG Phone 5 will take your gaming to a new dimension — if you dare.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Asus+ROG+5+Gaming+Phone+5G+256GB+(Phantom+Black)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Asus+ROG+5+Gaming+Phone+5G+256GB+(Phantom+Black)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Asus+ROG+5+Gaming+Phone+5G+256GB+(Phantom+Black)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Asus+ROG+5+Gaming+Phone+5G+256GB+(Phantom+Black)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Asus+ROG+5+Gaming+Phone+5G+256GB+(Phantom+Black)_04.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Asus+ROG+5+Gaming+Phone+5G+256GB+(Phantom+Black)_05.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Asus+ROG+5+Gaming+Phone+5G+256GB+(Phantom+Black)_06.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Asus+ROG+5+Gaming+Phone+5G+256GB+(Phantom+Black)_07.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Asus+ROG+5+Gaming+Phone+5G+256GB+(Phantom+Black)_08.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Asus+ROG+5+Gaming+Phone+5G+256GB+(Phantom+Black)_09.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Asus+ROG+5+Gaming+Phone+5G+256GB+(Phantom+Black)_10.jpg"
+    ]
   },
   {
     "name": "Samsung Galaxy S21 5G 128GB (Violet)",
@@ -207,7 +480,18 @@
     "brand": "Samsung",
     "rating": 4.2,
     "numReviews": 38,
-    "description": "Miss nothing, with Galaxy S21 5G. A camera so good, everyone’s a pro. When capturing your best moments, you no longer have to choose between photo and video. Galaxy S21 captures both, simultaneously, so you’ll never miss a moment. Capture big screen quality videos in stunning 8K resolution* and zoom in with less pixilation with 3x Optical Zoom."
+    "description": "Miss nothing, with Galaxy S21 5G. A camera so good, everyone’s a pro. When capturing your best moments, you no longer have to choose between photo and video. Galaxy S21 captures both, simultaneously, so you’ll never miss a moment. Capture big screen quality videos in stunning 8K resolution* and zoom in with less pixilation with 3x Optical Zoom.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+128GB+(Violet)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+128GB+(Violet)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+128GB+(Violet)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+128GB+(Violet)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+128GB+(Violet)_04.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+128GB+(Violet)_05.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+128GB+(Violet)_06.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+128GB+(Violet)_07.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+128GB+(Violet)_08.jpg"
+    ]
   },
   {
     "name": "Motorola Edge 20 Fusion 5G 128GB (Electric Graphite)",
@@ -217,36 +501,73 @@
     "brand": "Motorola",
     "rating": 3.6,
     "numReviews": 34,
-    "description": "The world has changed. And a new kind of world calls for a new kind of phone. One that takes the latest smartphone experiences to another level, empowering you to tell your story like never before. The new motorola edge 20 fusion was born for this. Featuring an advanced 108 MP camera system, you can capture stunning photos with 9x the low light sensitivity. Or view a billion shades of colour on a breathtaking 6.7 inch display. All without slowing down thanks to one of the largest 5G smartphone batteries and blazing-fast TurboPower™ charging. It’s time to explore new boundaries. motorola edge 20 fusion is here."
+    "description": "The world has changed. And a new kind of world calls for a new kind of phone. One that takes the latest smartphone experiences to another level, empowering you to tell your story like never before. The new motorola edge 20 fusion was born for this. Featuring an advanced 108 MP camera system, you can capture stunning photos with 9x the low light sensitivity. Or view a billion shades of colour on a breathtaking 6.7 inch display. All without slowing down thanks to one of the largest 5G smartphone batteries and blazing-fast TurboPower™ charging. It’s time to explore new boundaries. motorola edge 20 fusion is here.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+128GB+(Violet)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+128GB+(Violet)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+128GB+(Violet)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+128GB+(Violet)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+128GB+(Violet)_04.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+128GB+(Violet)_05.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+128GB+(Violet)_06.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+128GB+(Violet)_07.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+5G+128GB+(Violet)_08.jpg"
+    ]
   },
   {
-    "name": "Samsung Galaxy A52 128GB (Violet)",
+    "name": "Samsung Galaxy A52s 5G 128GB (Violet)",
     "category": "phones",
-    "image": "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+A52+128GB+(Violet)_main.jpg",
-    "price": 599,
+    "image": "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+A52s+5G+128GB+(Violet)_main.jpg",
+    "price": 649,
     "brand": "Samsung",
     "rating": 4.3,
-    "numReviews": 67,
-    "description": "See more, do more and experience more with Galaxy A52. Capture your life on the 64MP camera – and stream, game and share on the impressive 6.5” FHD+ screen."
+    "numReviews": 27,
+    "description": "See more, do more and experience more with Galaxy A52S. Capture your life on the 64MP camera – and stream, game and share on the impressive 6.5” FHD+ screen.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+A52s+5G+128GB+(Violet)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+A52s+5G+128GB+(Violet)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+A52s+5G+128GB+(Violet)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+A52s+5G+128GB+(Violet)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+A52s+5G+128GB+(Violet)_04.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+A52s+5G+128GB+(Violet)_05.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+A52s+5G+128GB+(Violet)_06.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+A52s+5G+128GB+(Violet)_07.jpg"
+    ]
   },
   {
     "name": "Apple iPhone 12 mini 64GB (Green)",
     "category": "phones",
     "image": "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+mini+64GB+(Green)_main.jpg",
-    "price": 884,
+    "price": 999,
     "brand": "Apple",
     "rating": 4.3,
     "numReviews": 32,
-    "description": "iPhone 12 mini. Immerse yourself in the 5.4-inch Super Retina XDR display with brighter brights and lifelike colour.2 In a perfectly small size."
+    "description": "iPhone 12 mini. Immerse yourself in the 5.4-inch Super Retina XDR display with brighter brights and lifelike colour.2 In a perfectly small size.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+mini+64GB+(Green)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+mini+64GB+(Green)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+mini+64GB+(Green)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+mini+64GB+(Green)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+mini+64GB+(Green)_04.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+mini+64GB+(Green)_05.jpg"
+    ]
   },
   {
     "name": "Apple iPhone 12 128GB (White)",
     "category": "phones",
     "image": "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+128GB+(White)_main.jpg",
-    "price": 1429,
+    "price": 1279,
     "brand": "Apple",
     "rating": 4.6,
     "numReviews": 62,
-    "description": "iPhone 12. Featuring a brilliant 6.1-inch Super Retina XDR display with OLED technology.2 For sharper text and lifelike photos."
+    "description": "iPhone 12. Featuring a brilliant 6.1-inch Super Retina XDR display with OLED technology.2 For sharper text and lifelike photos.",
+    "moreImages": [
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+128GB+(White)_main.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/apple+iphone+12+128gb+(white)_01.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/apple+iphone+12+128gb+(white)_02.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/apple+iphone+12+128gb+(white)_03.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/apple+iphone+12+128gb+(white)_04.jpg",
+      "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/apple+iphone+12+128gb+(white)_05.jpg"
+    ]
   }
 ]
