@@ -37,7 +37,8 @@ const phoneSchema = new mongoose.Schema({
     type: String,
     trim: true
   },
-  moreImages: [String]
+  moreImages: [String],
+  features: [String]
 });
 
 const Phone = mongoose.model('Phone', phoneSchema);

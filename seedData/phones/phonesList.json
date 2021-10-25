@@ -3,7 +3,7 @@
     "name": "Samsung Galaxy S21 Ultra 5G 256GB (Black)",
     "category": "phones",
     "image": "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+Ultra+5G+256GB+(Black)_main.jpg",
-    "price": 1949,
+    "price": 1649,
     "brand": "Samsung",
     "rating": 3.7,
     "numReviews": 32,
@@ -18,6 +18,25 @@
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+Ultra+5G+256GB+(Black)_06.jpg",
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+Ultra+5G+256GB+(Black)_07.jpg",
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+S21+Ultra+5G+256GB+(Black)_08.jpg"
+    ],
+    "features": [
+      "Dynamic AMOLED 2X, 120Hz, HDR10+, 1500 nits (peak)",
+      "1440 x 3200 pixels, 20:9 ratio (~515 ppi density)",
+      "Corning Gorilla Glass Victus",
+      "Qualcomm SM8350 Snapdragon 888 5G (5 nm)",
+      "108 MP, f/1.8, 24mm (wide), 1/1.33, 0.8µm, PDAF, Laser AF, OIS",
+      "10 MP, f/4.9, 240mm (periscope telephoto), 1/3.24, 1.22µm, dual pixel PDAF, OIS, 10x optical zoom",
+      "10 MP, f/2.4, 72mm (telephoto), 1/3.24, 1.22µm, dual pixel PDAF, OIS, 3x optical zoom",
+      "12 MP, f/2.2, 13mm (ultrawide), 1/2.55, 1.4µm, dual pixel PDAF, Super Steady video",
+      "LED flash, auto-HDR, panorama",
+      "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct, hotspot",
+      "Bluetooth 5.2, A2DP, LE",
+      "GPS with A-GPS, GLONASS, BDS, GALILEO",
+      "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer",
+      "Samsung DeX, Samsung Wireless DeX (desktop experience support)",
+      "Bixby natural language commands and dictation",
+      "Samsung Pay (Visa, MasterCard certified)",
+      "Ultra Wideband (UWB) support"
     ]
   },
   {
@@ -39,6 +58,19 @@
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Graphite)_06.jpg",
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Graphite)_07.jpg",
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Graphite)_08.jpg"
+    ],
+    "features": [
+      "6.1-inch Super Retina XDR display with ProMotion for a faster, more responsive feel",
+      "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos",
+      "Pro camera system with new 12MP Telephoto, Wide and Ultra Wide cameras; LiDAR Scanner; 6x optical zoom range; macro photography; Photographic Styles; ProRes video3; Smart HDR 4; Night mode; Apple ProRAW; and 4K Dolby Vision HDR recording",
+      "12MP TrueDepth front camera with Night mode and 4K Dolby Vision HDR recording",
+      "A15 Bionic chip for lightning-fast performance",
+      "Up to 22 hours of video playback",
+      "Durable design with Ceramic Shield",
+      "Industry-leading IP68 water resistance",
+      "5G for superfast downloads and high-quality streaming",
+      "iOS 15 packs new features to do more with iPhone than ever before",
+      "Supports MagSafe accessories for easy attachment and faster wireless charging"
     ]
   },
   {
@@ -60,6 +92,19 @@
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Gold)_06.jpg",
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Gold)_07.jpg",
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Gold)_08.jpg"
+    ],
+    "features": [
+      "6.1-inch Super Retina XDR display with ProMotion for a faster, more responsive feel",
+      "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos",
+      "Pro camera system with new 12MP Telephoto, Wide and Ultra Wide cameras; LiDAR Scanner; 6x optical zoom range; macro photography; Photographic Styles; ProRes video3; Smart HDR 4; Night mode; Apple ProRAW; and 4K Dolby Vision HDR recording",
+      "12MP TrueDepth front camera with Night mode and 4K Dolby Vision HDR recording",
+      "A15 Bionic chip for lightning-fast performance",
+      "Up to 22 hours of video playback",
+      "Durable design with Ceramic Shield",
+      "Industry-leading IP68 water resistance",
+      "5G for superfast downloads and high-quality streaming",
+      "iOS 15 packs new features to do more with iPhone than ever before",
+      "Supports MagSafe accessories for easy attachment and faster wireless charging"
     ]
   },
   {
@@ -81,6 +126,19 @@
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Silver)_06.jpg",
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Silver)_07.jpg",
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+1TB+(Silver)_08.jpg"
+    ],
+    "features": [
+      "6.1-inch Super Retina XDR display with ProMotion for a faster, more responsive feel",
+      "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos",
+      "Pro camera system with new 12MP Telephoto, Wide and Ultra Wide cameras; LiDAR Scanner; 6x optical zoom range; macro photography; Photographic Styles; ProRes video3; Smart HDR 4; Night mode; Apple ProRAW; and 4K Dolby Vision HDR recording",
+      "12MP TrueDepth front camera with Night mode and 4K Dolby Vision HDR recording",
+      "A15 Bionic chip for lightning-fast performance",
+      "Up to 22 hours of video playback",
+      "Durable design with Ceramic Shield",
+      "Industry-leading IP68 water resistance",
+      "5G for superfast downloads and high-quality streaming",
+      "iOS 15 packs new features to do more with iPhone than ever before",
+      "Supports MagSafe accessories for easy attachment and faster wireless charging"
     ]
   },
   {
@@ -102,6 +160,19 @@
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+Max+256GB+(Gold)_06.jpg",
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+Max+256GB+(Gold)_07.jpg",
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+Max+256GB+(Gold)_08.jpg"
+    ],
+    "features": [
+      "6.7-inch Super Retina XDR display with ProMotion for a faster, more responsive feel",
+      "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos",
+      "Pro camera system with new 12MP Telephoto, Wide and Ultra Wide cameras; LiDAR Scanner; 6x optical zoom range; macro photography; Photographic Styles; ProRes video4; Smart HDR 4; Night mode; Apple ProRAW; and 4K Dolby Vision HDR recording",
+      "12MP TrueDepth front camera with Night mode and 4K Dolby Vision HDR recording",
+      "A15 Bionic chip for lightning-fast performance",
+      "Up to 28 hours of video playback, the best battery life ever in an iPhone",
+      "Durable design with Ceramic Shield",
+      "Industry-leading IP68 water resistance",
+      "5G for superfast downloads and high-quality streaming",
+      "iOS 15 packs new features to do more with iPhone than ever before",
+      "Supports MagSafe accessories for easy attachment and faster wireless charging"
     ]
   },
   {
@@ -123,6 +194,19 @@
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+Max+256GB+(Graphite)_06.jpg",
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+Max+256GB+(Graphite)_07.jpg",
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+13+Pro+Max+256GB+(Graphite)_08.jpg"
+    ],
+    "features": [
+      "6.7-inch Super Retina XDR display with ProMotion for a faster, more responsive feel",
+      "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos",
+      "Pro camera system with new 12MP Telephoto, Wide and Ultra Wide cameras; LiDAR Scanner; 6x optical zoom range; macro photography; Photographic Styles; ProRes video4; Smart HDR 4; Night mode; Apple ProRAW; and 4K Dolby Vision HDR recording",
+      "12MP TrueDepth front camera with Night mode and 4K Dolby Vision HDR recording",
+      "A15 Bionic chip for lightning-fast performance",
+      "Up to 28 hours of video playback, the best battery life ever in an iPhone",
+      "Durable design with Ceramic Shield",
+      "Industry-leading IP68 water resistance",
+      "5G for superfast downloads and high-quality streaming",
+      "iOS 15 packs new features to do more with iPhone than ever before",
+      "Supports MagSafe accessories for easy attachment and faster wireless charging"
     ]
   },
   {
@@ -141,6 +225,19 @@
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+Pro+Max+128GB+(Pacific+Blue)_03.jpg",
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+Pro+Max+128GB+(Pacific+Blue)_04.jpg",
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Apple+iPhone+12+Pro+Max+128GB+(Pacific+Blue)_05.jpg"
+    ],
+    "features": [
+      "6.7-inch Super Retina XDR display with ProMotion for a faster, more responsive feel",
+      "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos",
+      "Pro camera system with new 12MP Telephoto, Wide and Ultra Wide cameras; LiDAR Scanner; 6x optical zoom range; macro photography; Photographic Styles; ProRes video4; Smart HDR 4; Night mode; Apple ProRAW; and 4K Dolby Vision HDR recording",
+      "12MP TrueDepth front camera with Night mode and 4K Dolby Vision HDR recording",
+      "A15 Bionic chip for lightning-fast performance",
+      "Up to 28 hours of video playback, the best battery life ever in an iPhone",
+      "Durable design with Ceramic Shield",
+      "Industry-leading IP68 water resistance",
+      "5G for superfast downloads and high-quality streaming",
+      "iOS 15 packs new features to do more with iPhone than ever before",
+      "Supports MagSafe accessories for easy attachment and faster wireless charging"
     ]
   },
   {
@@ -160,6 +257,19 @@
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Note20+Ultra+5G+256GB+(Black)_04.jpg",
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Note20+Ultra+5G+256GB+(Black)_05.jpg",
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Samsung+Galaxy+Note20+Ultra+5G+256GB+(Black)_06.jpg"
+    ],
+    "features": [
+      "Glass front (Gorilla Glass Victus), glass back (Gorilla Glass Victus), stainless steel frame",
+      "Display Type: Dynamic AMOLED 2X, 120Hz, HDR10+",
+      "Resolution: 1440 x 3088 pixels (~496 ppi density)",
+      "OS: Android 10, upgradable to Android 11, One UI 3.0",
+      "Dual video call, Auto-HDR",
+      "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+      "Bluetooth 5.0, A2DP, LE, aptX",
+      "GPS with A-GPS, GLONASS, BDS, GALILEO",
+      "USB Type-C 3.2, USB On-The-Go",
+      "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer | Samsung Wireless DeX (desktop experience support) | ANT+ | Bixby natural language commands and dictation | Samsung Pay (Visa, MasterCard certified) | Ultra Wideband (UWB) support",
+      " Fast charging 25W | USB Power Delivery 3.0 | Fast Qi/PMA wireless | charging 15W | Reverse wireless charging 4.5W"
     ]
   },
   {
@@ -180,6 +290,16 @@
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Nokia+XR20+5G+128GB+(Blue)_05.jpg",
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Nokia+XR20+5G+128GB+(Blue)_06.jpg",
       "https://horacinis-tech-store-media.s3.ap-southeast-2.amazonaws.com/products/phones/Nokia+XR20+5G+128GB+(Blue)_07.jpg"
+    ],
+    "features": [
+      "6.67 FHD+ (1080 x 2400) screen",
+      "128GB Storage with 6GB RAM",
+      "Qualcomm Snapdragon 480 processor",
+      "Face recognition",
+      "Fingerprint security",
+      "Wireless charging",
+      "Drop protected up to 1.5m",
+      "Water-resistant (IP68)"
     ]
   },
   {
