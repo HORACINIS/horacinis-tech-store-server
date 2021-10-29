@@ -37,7 +37,8 @@ const tabletSchema = new mongoose.Schema({
     type: String,
     trim: true
   },
-  moreImages: [String]
+  moreImages: [String],
+  features: [String]
 });
 
 const Tablet = mongoose.model('Tablet', tabletSchema);
